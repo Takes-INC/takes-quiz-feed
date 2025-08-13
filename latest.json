@@ -6,8 +6,8 @@
     "status": "active",
     "expiresAt": "2025-08-14T19:22:43.292Z",
     "metadata": {
-      "title": "This is the title ",
-      "theme": "This is the theme",
+      "title": "Blitz Test #1 ",
+      "theme": "is it reading JSON?",
       "difficulty": "medium",
       "estimatedTime": 60,
       "totalPoints": 5000,
