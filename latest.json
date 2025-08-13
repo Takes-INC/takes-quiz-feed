@@ -1,42 +1,137 @@
 {
   "dailyBlitz": {
     "id": "2025-08-13",
-    "date": "2025-08-13T17:18:44.112Z",
+    "date": "2025-08-13T12:38",
     "version": "1.0",
     "status": "active",
-    "expiresAt": "2025-08-14T17:18:44.112Z",
+    "expiresAt": "2025-08-14T19:22:43.292Z",
     "metadata": {
-      "title": "Daily Blitz August 12, 2025",
-      "theme": "Dog Days of Summer",
+      "title": "This is the title ",
+      "theme": "This is the theme",
       "difficulty": "medium",
       "estimatedTime": 60,
       "totalPoints": 5000,
-      "questionCount": 1,
+      "questionCount": 6,
       "categories": []
     },
     "stories": [
       {
         "id": "story_1",
-        "headline": "UT #1? Curse?",
-        "bodyText": "Florida State was a four-point favorite in its Week 1 game against No. 8 Miami in 1988 and lost outright — a reminder that early upsets can derail a title run.In that 1988 upset, Miami’s defense held Florida State to just 10 points, sparking Miami’s rise to a national championship that season.",
-        "imageUrl": "https://www.google.com/search?q=images+UT+longhorns+%231&sca_esv=b510d2a75869389b&rlz=1C5CHFA_enUS958US958&sxsrf=AE3TifMQtnQewIxi8GlWDlBi0W08Mam7ig%3A1755105174449&ei=lsecaMGWG6Tb0PEPwpWd4AI&ved=0ahUKEwjBud2jpIiPAxWkLTQIHcJKBywQ4dUDCBA&uact=5&oq=images+UT+longhorns+%231&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmltYWdlcyBVVCBsb25naG9ybnMgIzEyCBAAGKIEGIkFMggQABiiBBiJBTIFEAAY7wUyCBAAGKIEGIkFSNRJUIIHWIFIcAN4AJABAJgBfKABzRGqAQQxNy43uAEDyAEA-AEBmAIboALuEsICCBAAGLADGO8FwgILEAAYsAMYogQYiQXCAgoQABiABBhDGIoFwgILEC4YgAQYkQIYigXCAgsQABiABBiRAhiKBcICChAuGIAEGEMYigXCAhEQABiABBiRAhixAxiDARiKBcICEBAuGIAEGLEDGEMYgwEYigXCAhQQLhiABBiRAhixAxiDARjUAhiKBcICBRAAGIAEwgIKEAAYgAQYFBiHAsICERAuGIAEGJECGLEDGIMBGIoFwgIOEAAYgAQYkQIYsQMYigXCAgUQLhiABMICDRAAGIAEGLEDGEMYigXCAggQABiABBixA8ICIBAuGIAEGJECGLEDGIMBGIoFGJcFGNwEGN4EGOAE2AEBwgILEC4YgAQYxwEYrwHCAg0QLhiABBixAxiDARgNwgIHEAAYgAQYDcICBxAuGIAEGA3CAhwQLhiABBixAxiDARgNGJcFGNwEGN4EGOAE2AEBwgIGEAAYFhgewgILEAAYgAQYhgMYigXCAgQQABgewgIGEAAYCBgewgIGEAAYDRgewgIIEAAYCBgNGB7CAggQABiABBiiBJgDAIgGAZAGBboGBggBEAEYFJIHBTE3LjEwoAes8gGyBwUxNC4xMLgH3RLCBwgwLjMuMjIuMsgHiwE&sclient=gws-wiz-serp",
-        "category": "",
+        "headline": "Big Penix energy",
+        "bodyText": "Michael Penix took over as the Falcons’ starting quarterback late in the 2024 season after the team benched Kirk Cousins, who had struggled with turnovers and poor performance. At UW he literally turned his name into a meme-y NIL brand “Big Penix Energy” in an official collab with Seattle retailer Simply Seattle",
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "category": "NFL",
         "duration": 5000,
         "order": 1,
         "relatedQuestionIds": [
           "q1"
+        ]
+      },
+      {
+        "id": "story_2",
+        "headline": "Texas Longhorns Ranked #1 - Curse?",
+        "bodyText": "Florida State was a four-point favorite in its Week 1 game against No. 8 Miami in 1988 and lost outright — a reminder that early upsets can derail a title run. In that 1988 upset, Miami’s defense held Florida State to just 10 points, sparking Miami’s rise to a national championship that season.",
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "category": "NCAA Football",
+        "duration": 5000,
+        "order": 2,
+        "relatedQuestionIds": [
+          "q2"
+        ]
+      },
+      {
+        "id": "story_3",
+        "headline": "Tswizzle and Kelce",
+        "bodyText": "During Taylor Swift’s Kansas City 'Eras Tour' stop in 2023, Travis Kelce tried to give her a friendship bracelet with his number, sparking fan speculation and media buzz. That failed bracelet handoff became the opening chapter of one of sports and music’s biggest crossover relationships.",
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "category": "Pop Culture",
+        "duration": 5000,
+        "order": 3,
+        "relatedQuestionIds": [
+          "q3"
+        ]
+      },
+      {
+        "id": "story_4",
+        "headline": "Thumbs down for Love",
+        "bodyText": "Drew Brees suffered a torn thumb ligament in 2019 that required surgery, causing him to miss five games. The parallel raises concerns for Jordan Love’s availability. Brees returned from his thumb surgery throwing for over 370 yards in his first game back — a recovery Packers fans would happily take.",
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "category": "NFL",
+        "duration": 5000,
+        "order": 4,
+        "relatedQuestionIds": [
+          "q4"
+        ]
+      },
+      {
+        "id": "story_5",
+        "headline": "White House Brawl Stars",
+        "bodyText": "UFC head honcho Dana White confirmed plans to stage a Fight Night at the White House South Lawn on July 4 to celebrate the 250th birthday of the United States. Nothing screams 'America at 250' like cage fighting on government property.",
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "category": "Murica",
+        "duration": 5000,
+        "order": 5,
+        "relatedQuestionIds": [
+          "q5"
+        ]
+      },
+      {
+        "id": "story_6",
+        "headline": "The Stower the Better",
+        "bodyText": "Kyle Stowers went from a little-known outfielder to one of the season’s biggest surprises, hitting homers and making great plays in the field. Before this season, most fans couldn’t pick Stowers out of a lineup — now he’s ruining pitchers’ summers.",
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "category": "MLB",
+        "duration": 5000,
+        "order": 6,
+        "relatedQuestionIds": [
+          "q6"
         ]
       }
     ],
     "questions": [
       {
         "id": "q1",
-        "question": "Which quarterback replaced Kirk Cousins as the Atlanta Falcons’ starter during the 2024 season?Which past No. 1 team’s early-season stumble could serve as a cautionary tale for Texas in Week 1?",
+        "question": "Which quarterback replaced Kirk Cousins as the Atlanta Falcons’ starter during the 2024 season?",
+        "tag": "NFL",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Bo Nix",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Michael Penix",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Sam Darnold",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Bryce Young",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "backstory": "Michael Penix took over as the Falcons’ starting quarterback late in the 2024 season after the team benched Kirk Cousins, who had struggled with turnovers and poor performance.",
+        "funFact": "at UW he literally turned his name into a meme-y NIL brand “Big Penix Energy” in an official collab with Seattle retailer Simply Seattle",
+        "order": 1
+      },
+      {
+        "id": "q2",
+        "question": "Which past No. 1 team’s early-season stumble could serve as a cautionary tale for Texas in Week 1?",
         "tag": "NCAA Football",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://www.google.com/search?q=images+UT+longhorns+%231&sca_esv=b510d2a75869389b&rlz=1C5CHFA_enUS958US958&sxsrf=AE3TifMQtnQewIxi8GlWDlBi0W08Mam7ig%3A1755105174449&ei=lsecaMGWG6Tb0PEPwpWd4AI&ved=0ahUKEwjBud2jpIiPAxWkLTQIHcJKBywQ4dUDCBA&uact=5&oq=images+UT+longhorns+%231&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmltYWdlcyBVVCBsb25naG9ybnMgIzEyCBAAGKIEGIkFMggQABiiBBiJBTIFEAAY7wUyCBAAGKIEGIkFSNRJUIIHWIFIcAN4AJABAJgBfKABzRGqAQQxNy43uAEDyAEA-AEBmAIboALuEsICCBAAGLADGO8FwgILEAAYsAMYogQYiQXCAgoQABiABBhDGIoFwgILEC4YgAQYkQIYigXCAgsQABiABBiRAhiKBcICChAuGIAEGEMYigXCAhEQABiABBiRAhixAxiDARiKBcICEBAuGIAEGLEDGEMYgwEYigXCAhQQLhiABBiRAhixAxiDARjUAhiKBcICBRAAGIAEwgIKEAAYgAQYFBiHAsICERAuGIAEGJECGLEDGIMBGIoFwgIOEAAYgAQYkQIYsQMYigXCAgUQLhiABMICDRAAGIAEGLEDGEMYigXCAggQABiABBixA8ICIBAuGIAEGJECGLEDGIMBGIoFGJcFGNwEGN4EGOAE2AEBwgILEC4YgAQYxwEYrwHCAg0QLhiABBixAxiDARgNwgIHEAAYgAQYDcICBxAuGIAEGA3CAhwQLhiABBixAxiDARgNGJcFGNwEGN4EGOAE2AEBwgIGEAAYFhgewgILEAAYgAQYhgMYigXCAgQQABgewgIGEAAYCBgewgIGEAAYDRgewgIIEAAYCBgNGB7CAggQABiABBiiBJgDAIgGAZAGBboGBggBEAEYFJIHBTE3LjEwoAes8gGyBwUxNC4xMLgH3RLCBwgwLjMuMjIuMsgHiwE&sclient=gws-wiz-serp",
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
         "options": [
           {
             "letter": "A",
@@ -62,7 +157,147 @@
         "correctAnswer": "C",
         "backstory": "Florida State was a four-point favorite in its Week 1 game against No. 8 Miami in 1988 and lost outright — a reminder that early upsets can derail a title run.",
         "funFact": "In that 1988 upset, Miami’s defense held Florida State to just 10 points, sparking Miami’s rise to a national championship that season.",
-        "order": 1
+        "order": 2
+      },
+      {
+        "id": "q3",
+        "question": "What playful gesture by Travis Kelce in 2023 first connected his story to Taylor Swift in the public eye?",
+        "tag": "Pop Culture",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "options": [
+          {
+            "letter": "A",
+            "text": "He dedicated a touchdown dance to her",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "He gave her a friendship bracelet with his phone number on it",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "He wore her concert merch to a press conference",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "He wrote her a song",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "backstory": "During Taylor Swift’s Kansas City 'Eras Tour' stop in 2023, Travis Kelce tried to give her a friendship bracelet with his number, sparking fan speculation and media buzz.",
+        "funFact": "That failed bracelet handoff became the opening chapter of one of sports and music’s biggest crossover relationships.",
+        "order": 3
+      },
+      {
+        "id": "q4",
+        "question": "Jordan Love’s left thumb procedure has Packers fans nervous — which other star QB famously had a thumb injury that derailed part of his season?",
+        "tag": "NFL",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Aaron Rodgers",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Drew Brees",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Tom Brady",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Peyton Manning",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "backstory": "Drew Brees suffered a torn thumb ligament in 2019 that required surgery, causing him to miss five games. The parallel raises concerns for Jordan Love’s availability.",
+        "funFact": "Brees returned from his thumb surgery throwing for over 370 yards in his first game back — a recovery Packers fans would happily take.",
+        "order": 4
+      },
+      {
+        "id": "q5",
+        "question": "Which absurdly American location is set to host a UFC Fight Night on the Fourth of July, according to Dana White?",
+        "tag": "Murica",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Mount Rushmore",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "The White House South Lawn",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Area 51",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Statue of Liberty",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "backstory": "UFC head honcho Dana White confirmed plans to stage a Fight Night at the White House South Lawn on July 4 to celebrate the 250th birthday of the United States.",
+        "funFact": "Nothing screams 'America at 250' like cage fighting on government property.",
+        "order": 5
+      },
+      {
+        "id": "q6",
+        "question": "Which player shocked everyone by going from 'Who?' to home run hero in 2025?",
+        "tag": "MLB",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Kyle Stowers",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Ronald Acuña Jr.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Nathan Eovaldi",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Shohei Ohtani",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "backstory": "Kyle Stowers went from a little-known outfielder to one of the season’s biggest surprises, hitting homers and making great plays in the field.",
+        "funFact": "Before this season, most fans couldn’t pick Stowers out of a lineup — now he’s ruining pitchers’ summers.",
+        "order": 6
       }
     ],
     "collectibles": {
@@ -157,7 +392,7 @@
         "share"
       ],
       "customProperties": {
-        "quizTheme": "Dog Days of Summer",
+        "quizTheme": "This is the theme",
         "specialEvent": false
       }
     },
