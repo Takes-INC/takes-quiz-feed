@@ -1,24 +1,24 @@
 {
   "dailyBlitz": {
     "id": "2025-08-13",
-    "date": "2025-08-13T12:38",
+    "date": "2025-08-14T12:38",
     "version": "1.0",
     "status": "active",
     "expiresAt": "2025-08-14T19:22:43.292Z",
     "metadata": {
-      "title": "Blitz Test #1 ",
-      "theme": "is it reading JSON?",
+      "title": "Blitz #1",
+      "theme": "Dog Days of Summer 🐶 ☀️ 🕶️",
       "difficulty": "medium",
       "estimatedTime": 60,
-      "totalPoints": 5000,
+      "totalPoints": 3000,
       "questionCount": 6,
       "categories": []
     },
     "stories": [
       {
         "id": "story_1",
-        "headline": "Big Penix energy",
-        "bodyText": "Michael Penix took over as the Falcons’ starting quarterback late in the 2024 season after the team benched Kirk Cousins, who had struggled with turnovers and poor performance. At UW he literally turned his name into a meme-y NIL brand “Big Penix Energy” in an official collab with Seattle retailer Simply Seattle",
+        "headline": "Which quarterback replaced Kirk Cousins as the Atl...",
+        "bodyText": "Michael Penix took over as the Falcons’ starting quarterback late in the 2024 season after the team benched Kirk Cousins, who had struggled with turnovers and poor performance.\n\nat UW he literally turned his name into a meme-y NIL brand “Big Penix Energy” in an official collab with Seattle retailer Simply Seattle",
         "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
         "category": "NFL",
         "duration": 5000,
@@ -29,9 +29,9 @@
       },
       {
         "id": "story_2",
-        "headline": "Texas Longhorns Ranked #1 - Curse?",
-        "bodyText": "Florida State was a four-point favorite in its Week 1 game against No. 8 Miami in 1988 and lost outright — a reminder that early upsets can derail a title run. In that 1988 upset, Miami’s defense held Florida State to just 10 points, sparking Miami’s rise to a national championship that season.",
-        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "headline": "Which past No. 1 team’s early-season stumble could...",
+        "bodyText": "Florida State was a four-point favorite in its Week 1 game against No. 8 Miami in 1988 and lost outright — a reminder that early upsets can derail a title run.\n\nIn that 1988 upset, Miami’s defense held Florida State to just 10 points, sparking Miami’s rise to a national championship that season.",
+        "imageUrl": "https://i.etsystatic.com/9125852/r/il/b9ff44/4060423935/il_794xN.4060423935_bh6r.jpg",
         "category": "NCAA Football",
         "duration": 5000,
         "order": 2,
@@ -41,9 +41,9 @@
       },
       {
         "id": "story_3",
-        "headline": "Tswizzle and Kelce",
-        "bodyText": "During Taylor Swift’s Kansas City 'Eras Tour' stop in 2023, Travis Kelce tried to give her a friendship bracelet with his number, sparking fan speculation and media buzz. That failed bracelet handoff became the opening chapter of one of sports and music’s biggest crossover relationships.",
-        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "headline": "What playful gesture by Travis Kelce in 2023 first...",
+        "bodyText": "During Taylor Swift’s Kansas City 'Eras Tour' stop in 2023, Travis Kelce tried to give her a friendship bracelet with his number, sparking fan speculation and media buzz.\n\nThat failed bracelet handoff became the opening chapter of one of sports and music’s biggest crossover relationships.",
+        "imageUrl": "https://people.com/thmb/86TpwWEHTZv0YTG93b_gWTHfSKE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(902x701:904x703):format(webp)/Taylor-Swift-Travis-Kelce-Amsterdam-070624-03-b71d09f4779b4d109dc7be8f2f372e15.jpg",
         "category": "Pop Culture",
         "duration": 5000,
         "order": 3,
@@ -53,10 +53,10 @@
       },
       {
         "id": "story_4",
-        "headline": "Thumbs down for Love",
-        "bodyText": "Drew Brees suffered a torn thumb ligament in 2019 that required surgery, causing him to miss five games. The parallel raises concerns for Jordan Love’s availability. Brees returned from his thumb surgery throwing for over 370 yards in his first game back — a recovery Packers fans would happily take.",
-        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
-        "category": "NFL",
+        "headline": "Who reportedly convinced Kobe Bryant to stay with ...",
+        "bodyText": "In 2007, Mark Cuban said Lakers GM Mitch Kupchak “stepped up” and convinced Kobe to stay in L.A. after the Lakers and Mavericks had a trade framework in place.\n\nIf the trade happened, a Kobe–Dirk duo might have been one of the most unstoppable pairings in NBA history.",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/l5qG.2nuWjSxOwHssJ2i7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MTtjZj13ZWJw/https://media.zenfs.com/en/the_sporting_news_articles_584/208461cc2c533b1866d60ca7585b903e",
+        "category": "NBA",
         "duration": 5000,
         "order": 4,
         "relatedQuestionIds": [
@@ -65,8 +65,8 @@
       },
       {
         "id": "story_5",
-        "headline": "White House Brawl Stars",
-        "bodyText": "UFC head honcho Dana White confirmed plans to stage a Fight Night at the White House South Lawn on July 4 to celebrate the 250th birthday of the United States. Nothing screams 'America at 250' like cage fighting on government property.",
+        "headline": "Which absurdly American location is set to host a ...",
+        "bodyText": "UFC head honcho Dana White confirmed plans to stage a Fight Night at the White House South Lawn on July 4 to celebrate the 250th birthday of the United States.\n\nNothing screams 'America at 250' like cage fighting on government property.",
         "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
         "category": "Murica",
         "duration": 5000,
@@ -77,9 +77,9 @@
       },
       {
         "id": "story_6",
-        "headline": "The Stower the Better",
-        "bodyText": "Kyle Stowers went from a little-known outfielder to one of the season’s biggest surprises, hitting homers and making great plays in the field. Before this season, most fans couldn’t pick Stowers out of a lineup — now he’s ruining pitchers’ summers.",
-        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "headline": "What unusual prize did the Milwaukee Brewers win f...",
+        "bodyText": "Wisconsin chain George Webb gives out free burgers whenever the Brewers win 12 straight games, a promise dating back to 1970.\n\nThe Brewers have now triggered the free burger giveaway three times: 1987, 2018, and 2025.",
+        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5339,h_3003,x_0,y_0/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2Fsi%2F01k2jwz3qv35ed9zap50.jpg",
         "category": "MLB",
         "duration": 5000,
         "order": 6,
@@ -131,7 +131,7 @@
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "imageUrl": "https://i.etsystatic.com/9125852/r/il/b9ff44/4060423935/il_794xN.4060423935_bh6r.jpg",
         "options": [
           {
             "letter": "A",
@@ -166,7 +166,7 @@
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "imageUrl": "https://people.com/thmb/86TpwWEHTZv0YTG93b_gWTHfSKE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(902x701:904x703):format(webp)/Taylor-Swift-Travis-Kelce-Amsterdam-070624-03-b71d09f4779b4d109dc7be8f2f372e15.jpg",
         "options": [
           {
             "letter": "A",
@@ -196,37 +196,37 @@
       },
       {
         "id": "q4",
-        "question": "Jordan Love’s left thumb procedure has Packers fans nervous — which other star QB famously had a thumb injury that derailed part of his season?",
-        "tag": "NFL",
+        "question": "Who reportedly convinced Kobe Bryant to stay with the Lakers instead of accepting a 2007 trade to the Mavericks?",
+        "tag": "NBA",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/l5qG.2nuWjSxOwHssJ2i7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MTtjZj13ZWJw/https://media.zenfs.com/en/the_sporting_news_articles_584/208461cc2c533b1866d60ca7585b903e",
         "options": [
           {
             "letter": "A",
-            "text": "Aaron Rodgers",
+            "text": "Jerry Buss",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Drew Brees",
-            "isCorrect": true
+            "text": "Mark Cuban",
+            "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "Tom Brady",
-            "isCorrect": false
+            "text": "Mitch Kupchak",
+            "isCorrect": true
           },
           {
             "letter": "D",
-            "text": "Peyton Manning",
+            "text": "Phil Jackson",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "B",
-        "backstory": "Drew Brees suffered a torn thumb ligament in 2019 that required surgery, causing him to miss five games. The parallel raises concerns for Jordan Love’s availability.",
-        "funFact": "Brees returned from his thumb surgery throwing for over 370 yards in his first game back — a recovery Packers fans would happily take.",
+        "correctAnswer": "C",
+        "backstory": "In 2007, Mark Cuban said Lakers GM Mitch Kupchak “stepped up” and convinced Kobe to stay in L.A. after the Lakers and Mavericks had a trade framework in place.",
+        "funFact": "If the trade happened, a Kobe–Dirk duo might have been one of the most unstoppable pairings in NBA history.",
         "order": 4
       },
       {
@@ -266,37 +266,37 @@
       },
       {
         "id": "q6",
-        "question": "Which player shocked everyone by going from 'Who?' to home run hero in 2025?",
+        "question": "What unusual prize did the Milwaukee Brewers win for fans by beating the Pirates for their 12th straight win in 2025?",
         "tag": "MLB",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
+        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5339,h_3003,x_0,y_0/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2Fsi%2F01k2jwz3qv35ed9zap50.jpg",
         "options": [
           {
             "letter": "A",
-            "text": "Kyle Stowers",
-            "isCorrect": true
-          },
-          {
-            "letter": "B",
-            "text": "Ronald Acuña Jr.",
+            "text": "Free cheese curds",
             "isCorrect": false
           },
           {
+            "letter": "B",
+            "text": "Free burgers",
+            "isCorrect": true
+          },
+          {
             "letter": "C",
-            "text": "Nathan Eovaldi",
+            "text": "Free brewskies",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "Shohei Ohtani",
+            "text": "Free brats",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "A",
-        "backstory": "Kyle Stowers went from a little-known outfielder to one of the season’s biggest surprises, hitting homers and making great plays in the field.",
-        "funFact": "Before this season, most fans couldn’t pick Stowers out of a lineup — now he’s ruining pitchers’ summers.",
+        "correctAnswer": "B",
+        "backstory": "Wisconsin chain George Webb gives out free burgers whenever the Brewers win 12 straight games, a promise dating back to 1970.",
+        "funFact": "The Brewers have now triggered the free burger giveaway three times: 1987, 2018, and 2025.",
         "order": 6
       }
     ],
@@ -392,7 +392,7 @@
         "share"
       ],
       "customProperties": {
-        "quizTheme": "This is the theme",
+        "quizTheme": "Dog Days of Summer 🐶 ☀️ 🕶️",
         "specialEvent": false
       }
     },
