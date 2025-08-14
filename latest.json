@@ -17,7 +17,7 @@
     "stories": [
       {
         "id": "0b1b4d26-ff52-4b98-a7af-77d13cfb5556",
-        "headline": "Which quarterback replaced Kirk Cousins as the Atl...",
+        "headline": "Big Penix Energy",
         "bodyText": "Michael Penix took over as the Falcons’ starting quarterback late in the 2024 season after the team benched Kirk Cousins, who had struggled with turnovers and poor performance.\n\nat UW he literally turned his name into a meme-y NIL brand “Big Penix Energy” in an official collab with Seattle retailer Simply Seattle",
         "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/08/GettyImages-2191310438.jpg?w=1024",
         "category": "NFL",
@@ -29,7 +29,7 @@
       },
       {
         "id": "14ce61c4-b3f3-4897-8c12-c38dbe15cd86",
-        "headline": "Which past No. 1 team’s early-season stumble could...",
+        "headline": "Texas #1; bad sign?",
         "bodyText": "Florida State was a four-point favorite in its Week 1 game against No. 8 Miami in 1988 and lost outright — a reminder that early upsets can derail a title run.\n\nIn that 1988 upset, Miami’s defense held Florida State to just 10 points, sparking Miami’s rise to a national championship that season.",
         "imageUrl": "https://i.etsystatic.com/9125852/r/il/b9ff44/4060423935/il_794xN.4060423935_bh6r.jpg",
         "category": "NCAA Football",
@@ -41,7 +41,7 @@
       },
       {
         "id": "e8a61d9a-86df-4359-9759-70d8826a2cfa",
-        "headline": "What playful gesture by Travis Kelce in 2023 first...",
+        "headline": "Tswizzle + Kelce meet cute",
         "bodyText": "During Taylor Swift’s Kansas City 'Eras Tour' stop in 2023, Travis Kelce tried to give her a friendship bracelet with his number, sparking fan speculation and media buzz.\n\nThat failed bracelet handoff became the opening chapter of one of sports and music’s biggest crossover relationships.",
         "imageUrl": "https://people.com/thmb/86TpwWEHTZv0YTG93b_gWTHfSKE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(902x701:904x703):format(webp)/Taylor-Swift-Travis-Kelce-Amsterdam-070624-03-b71d09f4779b4d109dc7be8f2f372e15.jpg",
         "category": "Pop Culture",
@@ -53,7 +53,7 @@
       },
       {
         "id": "cb1a4f9f-d21d-4ce6-9bac-e18b3a32320f",
-        "headline": "Who reportedly convinced Kobe Bryant to stay with ...",
+        "headline": "What if...?",
         "bodyText": "In 2007, Mark Cuban said Lakers GM Mitch Kupchak “stepped up” and convinced Kobe to stay in L.A. after the Lakers and Mavericks had a trade framework in place.\n\nIf the trade happened, a Kobe–Dirk duo might have been one of the most unstoppable pairings in NBA history.",
         "imageUrl": "https://s.yimg.com/ny/api/res/1.2/l5qG.2nuWjSxOwHssJ2i7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MTtjZj13ZWJw/https://media.zenfs.com/en/the_sporting_news_articles_584/208461cc2c533b1866d60ca7585b903e",
         "category": "NBA",
@@ -65,9 +65,9 @@
       },
       {
         "id": "7bf4c128-7e60-4dba-99b9-c96a6dca0835",
-        "headline": "Which absurdly American location is set to host a ...",
+        "headline": "Fighting in DC, not the political kind",
         "bodyText": "UFC head honcho Dana White confirmed plans to stage a Fight Night at the White House South Lawn on July 4 to celebrate the 250th birthday of the United States.\n\nNothing screams 'America at 250' like cage fighting on government property.",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d56e145f80b7500016ba502/492934a8-6384-4a32-9fb6-395a356ba281/Screenshot+2025-08-12+103218.jpg?format=2500w",
+        "imageUrl": "https://www.ufc.com.br/node/27551",
         "category": "Murica",
         "duration": 5000,
         "order": 5,
@@ -77,7 +77,7 @@
       },
       {
         "id": "cdacd729-86a5-4333-ab02-ba68e5f6c0c1",
-        "headline": "What unusual prize did the Milwaukee Brewers win f...",
+        "headline": "Not exactly Taco Tuesday",
         "bodyText": "Wisconsin chain George Webb gives out free burgers whenever the Brewers win 12 straight games, a promise dating back to 1970.\n\nThe Brewers have now triggered the free burger giveaway three times: 1987, 2018, and 2025.",
         "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5339,h_3003,x_0,y_0/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2Fsi%2F01k2jwz3qv35ed9zap50.jpg",
         "category": "MLB",
@@ -236,7 +236,7 @@
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d56e145f80b7500016ba502/492934a8-6384-4a32-9fb6-395a356ba281/Screenshot+2025-08-12+103218.jpg?format=2500w",
+        "imageUrl": "https://www.ufc.com.br/node/27551",
         "options": [
           {
             "letter": "A",
