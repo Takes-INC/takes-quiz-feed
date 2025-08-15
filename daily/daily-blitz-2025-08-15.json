@@ -1,0 +1,414 @@
+{
+  "dailyBlitz": {
+    "id": "2025-08-15",
+    "date": "2025-08-15T09:07",
+    "version": "1.0",
+    "status": "active",
+    "expiresAt": "2025-08-16T16:07:35.570Z",
+    "metadata": {
+      "title": "Blitz #2",
+      "theme": "Fame, Fire, Fallout",
+      "difficulty": "medium",
+      "estimatedTime": 60,
+      "totalPoints": 5000,
+      "questionCount": 10,
+      "categories": []
+    },
+    "stories": [
+      {
+        "id": "f51d26d9-49b7-4dea-8f75-e8c755ec0147",
+        "headline": "BREAKING: Wolverines penalty!",
+        "bodyText": "The NCAA tacked on a third suspension game for Moore — forcing Michigan to navigate a critical September stretch without its head coach.\n\nMichigan opens with New Mexico before a marquee Sept. 9 matchup at Oklahoma — a Big Ten vs. SEC clash that now looms even larger without Moore on the sideline.",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9w00lah14BbTWzn.2zEYVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xODA4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/5d655060-7941-11ee-b33b-740cba46015c",
+        "category": "BREAKING",
+        "duration": 5000,
+        "order": 1,
+        "relatedQuestionIds": [
+          "q1"
+        ]
+      },
+      {
+        "id": "c4125f01-b80d-4527-b436-09423fa2297a",
+        "headline": "Oh, it's you AGAIN!",
+        "bodyText": "Anthony Davis, now with the Mavericks, will play his first game back in LA on Nov. 28\n\nThe Davis-Dončić swap happened mere hours after the Lakers played at Madison Square Garden last season, adding a layer of “only in the NBA” chaos to the saga.",
+        "imageUrl": "https://i.guim.co.uk/img/media/61f071a4d2bea629dfb3e4056f58d76905a0b1ec/0_222_5092_3056/master/5092.jpg?width=620&dpr=1&s=none&crop=none",
+        "category": "NBA",
+        "duration": 5000,
+        "order": 2,
+        "relatedQuestionIds": [
+          "q2"
+        ]
+      },
+      {
+        "id": "ecfb1a90-a04a-41c6-92b1-932aaea87f5c",
+        "headline": "Dodgers descent",
+        "bodyText": "After being swept by the Angels, the Dodgers fell out of first for the first time since April 27, now chasing a surging Padres team.\n\nThe Padres haven’t held sole possession of first this late in the season since September 25, 2010.",
+        "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2024-10/241030-dodgers-celebrate-lr-fc323a.jpg",
+        "category": "MLB",
+        "duration": 5000,
+        "order": 3,
+        "relatedQuestionIds": [
+          "q3"
+        ]
+      },
+      {
+        "id": "a42e5c3c-4133-4614-a5bc-9cbe136b56a2",
+        "headline": "Manning Money",
+        "bodyText": "Wait to see draft order and team situations before deciding\n\nNFL scouts expect the Mannings to weigh which team holds the No. 1 pick, who the coach is, and overall fit — and with NIL money, there’s no rush to enter the league.",
+        "imageUrl": "https://people.com/thmb/tfqc0azTJIa-xt_xAseTG41rCVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(963x476:965x478)/the-manning-brothers-1-4baff6a9e74b4b6bb5aa6d4a53cdec24.jpg",
+        "category": "Manning Gossip",
+        "duration": 5000,
+        "order": 4,
+        "relatedQuestionIds": [
+          "q4"
+        ]
+      },
+      {
+        "id": "8ee3b744-8a63-4518-900c-0657ef672ae2",
+        "headline": "Caitlin's fever",
+        "bodyText": "Clark has been sidelined for 19 of the Fever’s 32 games, including her latest stretch out with a groin injury suffered on July 15.\n\nDespite missing Clark, the Fever are 10-9 without her and 6-2 over their last eight games.",
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oregonlive.com%2Fwnba%2F2025%2F08%2Fwhere-to-watch-indiana-fever-vs-dallas-wings-for-free-tonight-wnba-basketball-time-odds.html&psig=AOvVaw1vEHWvS6vDYenstO5xWJMN&ust=1755361586292000&source=images&cd=vfe&opi=89978449&ved=0CBcQjRxqFwoTCNDE_8KfjY8DFQAAAAAdAAAAABAE",
+        "category": "I've got the FEVER",
+        "duration": 5000,
+        "order": 5,
+        "relatedQuestionIds": [
+          "q5"
+        ]
+      },
+      {
+        "id": "adc1fb04-fc6f-4117-a9bb-75ecca4f9d65",
+        "headline": "Was it worth it?",
+        "bodyText": "Nine out of 10 former players — even many who said football wrecked their bodies and minds — said they’d do it all over again because the game gave them money, fame, and life-defining moments.\n\nOne player said he’d play again despite an early Alzheimer’s diagnosis, because the competition and camaraderie were worth it.",
+        "imageUrl": "https://i.insider.com/5ffcd3a7d184b30018aae349?width=700",
+        "category": "Survey says...",
+        "duration": 5000,
+        "order": 6,
+        "relatedQuestionIds": [
+          "q6"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "question": "With the NCAA’s sign-stealing penalties finally handed down, what immediate on-field setback will No. 14 Michigan face this season?",
+        "tag": "BREAKING",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9w00lah14BbTWzn.2zEYVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xODA4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/5d655060-7941-11ee-b33b-740cba46015c",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Loss of postseason eligibility",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Loss of starting quarterback",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Game suspension for head coach",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Reduction in practice time",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "backstory": "The NCAA tacked on a third suspension game for Moore — forcing Michigan to navigate a critical September stretch without its head coach.",
+        "funFact": "Michigan opens with New Mexico before a marquee Sept. 9 matchup at Oklahoma — a Big Ten vs. SEC clash that now looms even larger without Moore on the sideline.",
+        "order": 1
+      },
+      {
+        "id": "q2",
+        "question": "n one of the most drama-filled returns of the 2025-26 NBA season, which player will face the Lakers in Los Angeles for the first time since being traded for Luka Dončić?",
+        "tag": "NBA",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://i.guim.co.uk/img/media/61f071a4d2bea629dfb3e4056f58d76905a0b1ec/0_222_5092_3056/master/5092.jpg?width=620&dpr=1&s=none&crop=none",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Anthony Davis",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Kevin Durant",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Kyrie Irving",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "LeBron James",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "backstory": "Anthony Davis, now with the Mavericks, will play his first game back in LA on Nov. 28",
+        "funFact": "The Davis-Dončić swap happened mere hours after the Lakers played at Madison Square Garden last season, adding a layer of “only in the NBA” chaos to the saga.",
+        "order": 2
+      },
+      {
+        "id": "q3",
+        "question": "Six weeks after holding a nine-game division lead, where do the Dodgers now sit in the NL West standings?",
+        "tag": "MLB",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2024-10/241030-dodgers-celebrate-lr-fc323a.jpg",
+        "options": [
+          {
+            "letter": "A",
+            "text": "First place, tied",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "First place, one game ahead of Padres",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Second place, one game behind Padres",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Third place, two games behind Giants",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "backstory": "After being swept by the Angels, the Dodgers fell out of first for the first time since April 27, now chasing a surging Padres team.",
+        "funFact": "The Padres haven’t held sole possession of first this late in the season since September 25, 2010.",
+        "order": 3
+      },
+      {
+        "id": "q4",
+        "question": "What is the Manning family’s likely approach to Arch’s NFL Draft timeline?",
+        "tag": "Manning Gossip",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://people.com/thmb/tfqc0azTJIa-xt_xAseTG41rCVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(963x476:965x478)/the-manning-brothers-1-4baff6a9e74b4b6bb5aa6d4a53cdec24.jpg",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Declare for 2026 draft no matter what",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Return to college until he wins a national title",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Wait to see draft order and team situations before deciding",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Skip NFL for another sport",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "backstory": "Wait to see draft order and team situations before deciding",
+        "funFact": "NFL scouts expect the Mannings to weigh which team holds the No. 1 pick, who the coach is, and overall fit — and with NIL money, there’s no rush to enter the league.",
+        "order": 4
+      },
+      {
+        "id": "q5",
+        "question": "How many games has Caitlin Clark missed this season due to multiple injuries, including her current groin injury?",
+        "tag": "I've got the FEVER",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oregonlive.com%2Fwnba%2F2025%2F08%2Fwhere-to-watch-indiana-fever-vs-dallas-wings-for-free-tonight-wnba-basketball-time-odds.html&psig=AOvVaw1vEHWvS6vDYenstO5xWJMN&ust=1755361586292000&source=images&cd=vfe&opi=89978449&ved=0CBcQjRxqFwoTCNDE_8KfjY8DFQAAAAAdAAAAABAE",
+        "options": [
+          {
+            "letter": "A",
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "14",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "19",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "22",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "backstory": "Clark has been sidelined for 19 of the Fever’s 32 games, including her latest stretch out with a groin injury suffered on July 15.",
+        "funFact": "Despite missing Clark, the Fever are 10-9 without her and 6-2 over their last eight games.",
+        "order": 5
+      },
+      {
+        "id": "q6",
+        "question": "Despite higher rates of pain, disability, depression, and even dementia, what percentage of surveyed NFL retirees from the 1988 season said they’d still choose to play again?",
+        "tag": "Survey says...",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://i.insider.com/5ffcd3a7d184b30018aae349?width=700",
+        "options": [
+          {
+            "letter": "A",
+            "text": "50%",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "65%",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "78%",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "90%",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "backstory": "Nine out of 10 former players — even many who said football wrecked their bodies and minds — said they’d do it all over again because the game gave them money, fame, and life-defining moments.",
+        "funFact": "One player said he’d play again despite an early Alzheimer’s diagnosis, because the competition and camaraderie were worth it.",
+        "order": 6
+      }
+    ],
+    "collectibles": {
+      "enabled": true,
+      "condition": {
+        "type": "score_threshold",
+        "value": 4000,
+        "alternativeConditions": [
+          {
+            "type": "perfect_score",
+            "value": true
+          },
+          {
+            "type": "correct_answers",
+            "value": 8
+          }
+        ]
+      },
+      "reward": {
+        "type": "pack",
+        "packType": "standard",
+        "contents": []
+      }
+    },
+    "scoring": {
+      "basePoints": 1250,
+      "timeBonusEnabled": false,
+      "streakBonusEnabled": true,
+      "perfectScoreBonus": 1000,
+      "grading": [
+        {
+          "grade": "A+",
+          "minScore": 4500,
+          "emoji": "🏆"
+        },
+        {
+          "grade": "A",
+          "minScore": 4000,
+          "emoji": "🌟"
+        },
+        {
+          "grade": "B+",
+          "minScore": 3500,
+          "emoji": "👏"
+        },
+        {
+          "grade": "B",
+          "minScore": 3000,
+          "emoji": "👍"
+        },
+        {
+          "grade": "C+",
+          "minScore": 2500,
+          "emoji": "🤔"
+        },
+        {
+          "grade": "C",
+          "minScore": 2000,
+          "emoji": "💪"
+        }
+      ]
+    },
+    "leaderboard": {
+      "enabled": true,
+      "resetDaily": true,
+      "displayTop": 100,
+      "prizes": [
+        {
+          "rank": 1,
+          "reward": "exclusive_collectible",
+          "description": "Daily Champion Badge"
+        }
+      ]
+    },
+    "socialSharing": {
+      "enabled": true,
+      "template": "🏆 Daily Blitz Results!\\n\\nScore: {{score}} points\\nAccuracy: {{accuracy}}% ({{correct}}/{{total}})\\nTime: {{time}}\\n\\nChallenge your sports knowledge! #DailyBlitz",
+      "hashtags": [
+        "DailyBlitz",
+        "SportsTrivia",
+        "{{topCategory}}"
+      ],
+      "shareUrl": "https://dailyblitz.app/challenge/{{date}}"
+    },
+    "analytics": {
+      "trackingEnabled": true,
+      "events": [
+        "quiz_start",
+        "quiz_complete",
+        "story_view",
+        "collectible_earned",
+        "share"
+      ],
+      "customProperties": {
+        "quizTheme": "Fame, Fire, Fallout",
+        "specialEvent": false
+      }
+    },
+    "localization": {
+      "defaultLanguage": "en",
+      "availableLanguages": [
+        "en",
+        "es",
+        "fr"
+      ],
+      "translations": {
+        "es": {
+          "stories": [],
+          "questions": []
+        }
+      }
+    }
+  }
+}
