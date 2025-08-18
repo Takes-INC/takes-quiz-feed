@@ -1,26 +1,26 @@
 {
   "dailyBlitz": {
-    "id": "2025-08-15",
-    "date": "2025-08-15T09:07",
+    "id": "2025-08-18",
+    "date": "2025-08-18T09:08",
     "version": "1.0",
     "status": "active",
-    "expiresAt": "2025-08-16T16:07:35.570Z",
+    "expiresAt": "2025-08-19T16:08:17.732Z",
     "metadata": {
-      "title": "Blitz #2",
-      "theme": "Fame, Fire, Fallout",
+      "title": "Blitz #3",
+      "theme": "Don't believe the hype!",
       "difficulty": "medium",
       "estimatedTime": 60,
       "totalPoints": 5000,
-      "questionCount": 10,
+      "questionCount": 6,
       "categories": []
     },
     "stories": [
       {
-        "id": "f51d26d9-49b7-4dea-8f75-e8c755ec0147",
-        "headline": "BREAKING: Wolverines penalty!",
-        "bodyText": "The NCAA tacked on a third suspension game for Moore — forcing Michigan to navigate a critical September stretch without its head coach.\n\nMichigan opens with New Mexico before a marquee Sept. 9 matchup at Oklahoma — a Big Ten vs. SEC clash that now looms even larger without Moore on the sideline.",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9w00lah14BbTWzn.2zEYVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xODA4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/5d655060-7941-11ee-b33b-740cba46015c",
-        "category": "BREAKING",
+        "id": "4d2db14a-f129-4f76-a03b-107c1f765b7f",
+        "headline": "Bolt or Volt?",
+        "bodyText": "The fastest 100-meter dash was 33.71 seconds — impressive for a hunk of wires, but still over 3x SLOWER than Usain Bolt’s human record.\n\nThe robots ran so awkwardly that some looked like your uncle jogging back to the car because he left the lights on.",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7cNEA7x8PiiW3qc6QD4_EA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzUw/https://s.yimg.com/os/creatr-uploaded-images/2025-08/c076c520-7b98-11f0-afcf-d00ed75a93dc",
+        "category": "Our Robot Overlords",
         "duration": 5000,
         "order": 1,
         "relatedQuestionIds": [
@@ -28,11 +28,11 @@
         ]
       },
       {
-        "id": "c4125f01-b80d-4527-b436-09423fa2297a",
-        "headline": "Oh, it's you AGAIN!",
-        "bodyText": "Anthony Davis, now with the Mavericks, will play his first game back in LA on Nov. 28\n\nThe Davis-Dončić swap happened mere hours after the Lakers played at Madison Square Garden last season, adding a layer of “only in the NBA” chaos to the saga.",
-        "imageUrl": "https://i.guim.co.uk/img/media/61f071a4d2bea629dfb3e4056f58d76905a0b1ec/0_222_5092_3056/master/5092.jpg?width=620&dpr=1&s=none&crop=none",
-        "category": "NBA",
+        "id": "1633cc7b-891e-4817-85bc-850302ec8f0c",
+        "headline": "Bear down",
+        "bodyText": "Chicago opened its 2025 preseason by defeating Buffalo 38–0, a nationally televised shutout that marked Williams’ first game action with the Bears.\n\nIt was the Bears’ first preseason game under new head coach Ben Johnson, hired after Matt Eberflus was fired during the 2024 season.",
+        "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/18/USAT/85703920007-2230676684.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp",
+        "category": "NFL",
         "duration": 5000,
         "order": 2,
         "relatedQuestionIds": [
@@ -40,10 +40,10 @@
         ]
       },
       {
-        "id": "ecfb1a90-a04a-41c6-92b1-932aaea87f5c",
-        "headline": "Dodgers descent",
-        "bodyText": "After being swept by the Angels, the Dodgers fell out of first for the first time since April 27, now chasing a surging Padres team.\n\nThe Padres haven’t held sole possession of first this late in the season since September 25, 2010.",
-        "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2024-10/241030-dodgers-celebrate-lr-fc323a.jpg",
+        "id": "61dcf12b-66f3-49cd-bb4d-07137d5bbe3c",
+        "headline": "Back in the saddle",
+        "bodyText": "The Dodgers turned a one-game deficit into a two-game division lead and secured the season head-to-head tiebreaker after winning 8 of 10 against the Padres.\n\nThis was the first time in six weeks the Dodgers won three straight games — but it instantly reasserted their control over the division.",
+        "imageUrl": "https://eastvillagetimes.com/wp-content/uploads/2017/06/NL-West-Predictions-MLB-Betting-Season-Preview-Division-Odds.pngpi=89978449&ved=0CBYQjRxqFwoTCKi7mevilI8DFQAAAAAdAAAAABAE",
         "category": "MLB",
         "duration": 5000,
         "order": 3,
@@ -52,11 +52,11 @@
         ]
       },
       {
-        "id": "a42e5c3c-4133-4614-a5bc-9cbe136b56a2",
-        "headline": "Manning Money",
-        "bodyText": "Wait to see draft order and team situations before deciding\n\nNFL scouts expect the Mannings to weigh which team holds the No. 1 pick, who the coach is, and overall fit — and with NIL money, there’s no rush to enter the league.",
-        "imageUrl": "https://people.com/thmb/tfqc0azTJIa-xt_xAseTG41rCVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(963x476:965x478)/the-manning-brothers-1-4baff6a9e74b4b6bb5aa6d4a53cdec24.jpg",
-        "category": "Manning Gossip",
+        "id": "e4ba8fe6-e735-4e7e-abcc-dc4102f4ffed",
+        "headline": "Notorious hothead melts down",
+        "bodyText": "Robles has long been known as a fiery, sometimes volatile player — his bat toss after repeated HBPs shows the same inability to let things go that’s dogged him in the past.\n\nRobles, once a top Nationals prospect, has had a career marked by highlight-reel plays and equally memorable blowups.",
+        "imageUrl": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/08/DF-US-OP-ROBLES.jpg?w=620",
+        "category": "Tantrums!",
         "duration": 5000,
         "order": 4,
         "relatedQuestionIds": [
@@ -64,11 +64,11 @@
         ]
       },
       {
-        "id": "8ee3b744-8a63-4518-900c-0657ef672ae2",
-        "headline": "Caitlin's fever",
-        "bodyText": "Clark has been sidelined for 19 of the Fever’s 32 games, including her latest stretch out with a groin injury suffered on July 15.\n\nDespite missing Clark, the Fever are 10-9 without her and 6-2 over their last eight games.",
-        "imageUrl": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2025/06/Indiana-Fever-Pacers-Sports-Entertainment-Tap-Salesforce-to-Ignite-Fan-Engagement-with-Agentic-AI-2.png?w=500&h=281",
-        "category": "I've got the FEVER",
+        "id": "d8dc48b6-dbea-45f3-9064-2b9d2c710206",
+        "headline": "Just pay the dude",
+        "bodyText": "Hendrickson, a four-time Pro Bowler with 17.5 sacks in each of the past two seasons, has yet to reach a contract resolution with Cincinnati.\n\nDespite his dominance, the Bengals are hesitating to pay him — echoing a long history of the team pinching pennies.",
+        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_7208,h_4054,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2Fsi%2F01k2x2ydfrwr3mzs7szd.jpg",
+        "category": "Moneyball",
         "duration": 5000,
         "order": 5,
         "relatedQuestionIds": [
@@ -76,11 +76,11 @@
         ]
       },
       {
-        "id": "adc1fb04-fc6f-4117-a9bb-75ecca4f9d65",
-        "headline": "Was it worth it?",
-        "bodyText": "Nine out of 10 former players — even many who said football wrecked their bodies and minds — said they’d do it all over again because the game gave them money, fame, and life-defining moments.\n\nOne player said he’d play again despite an early Alzheimer’s diagnosis, because the competition and camaraderie were worth it.",
-        "imageUrl": "https://i.insider.com/5ffcd3a7d184b30018aae349?width=700",
-        "category": "Survey says...",
+        "id": "8e395a3e-b8d8-4516-b7df-cbd87e5b79c3",
+        "headline": "Ryder Cup drama",
+        "bodyText": "Bryson DeChambeau, the lone LIV Golf rep, muscled his way back onto Team USA by racking up points in majors, making his first Ryder Cup appearance since 2021.\n\nThink of Bryson as the drama-filled “cast member who got kicked off in Season 1… only to storm back in Season 3.\"",
+        "imageUrl": "https://res.cloudinary.com/rydercup-prod/w_1153,h_648,c_fit,q_auto,g_center,dpr_2.0,f_auto/rydercup/images/teams/united-states/RC-AQ-16x9.jpg",
+        "category": "Golf",
         "duration": 5000,
         "order": 6,
         "relatedQuestionIds": [
@@ -91,212 +91,212 @@
     "questions": [
       {
         "id": "q1",
-        "question": "With the NCAA’s sign-stealing penalties finally handed down, what immediate on-field setback will No. 14 Michigan face this season?",
-        "tag": "BREAKING",
+        "question": "At China’s first “Robot Olympics,” what blazing 100-meter dash time did Unitree’s humanoid sprinter clock in at?",
+        "tag": "Our Robot Overlords",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/9w00lah14BbTWzn.2zEYVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xODA4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/5d655060-7941-11ee-b33b-740cba46015c",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7cNEA7x8PiiW3qc6QD4_EA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzUw/https://s.yimg.com/os/creatr-uploaded-images/2025-08/c076c520-7b98-11f0-afcf-d00ed75a93dc",
         "options": [
           {
             "letter": "A",
-            "text": "Loss of postseason eligibility",
+            "text": "9.58 seconds",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Loss of starting quarterback",
+            "text": "15.5 seconds",
             "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "Game suspension for head coach",
+            "text": "33.71 seconds",
             "isCorrect": true
           },
           {
             "letter": "D",
-            "text": "Reduction in practice time",
+            "text": "1 minute flat",
             "isCorrect": false
           }
         ],
         "correctAnswer": "C",
-        "backstory": "The NCAA tacked on a third suspension game for Moore — forcing Michigan to navigate a critical September stretch without its head coach.",
-        "funFact": "Michigan opens with New Mexico before a marquee Sept. 9 matchup at Oklahoma — a Big Ten vs. SEC clash that now looms even larger without Moore on the sideline.",
+        "backstory": "The fastest 100-meter dash was 33.71 seconds — impressive for a hunk of wires, but still over 3x SLOWER than Usain Bolt’s human record.",
+        "funFact": "The robots ran so awkwardly that some looked like your uncle jogging back to the car because he left the lights on.",
         "order": 1
       },
       {
         "id": "q2",
-        "question": "In one of the most drama-filled returns of the 2025-26 NBA season, which player will face the Lakers in Los Angeles for the first time since being traded for Luka Dončić?",
-        "tag": "NBA",
+        "question": "What was the final score of the Bears’ preseason win over the Bills in Caleb Williams’ debut?",
+        "tag": "NFL",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://i.guim.co.uk/img/media/61f071a4d2bea629dfb3e4056f58d76905a0b1ec/0_222_5092_3056/master/5092.jpg?width=620&dpr=1&s=none&crop=none",
+        "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/18/USAT/85703920007-2230676684.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp",
         "options": [
           {
             "letter": "A",
-            "text": "Anthony Davis",
-            "isCorrect": true
+            "text": "24–3",
+            "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Kevin Durant",
+            "text": "31–10",
             "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "Kyrie Irving",
-            "isCorrect": false
+            "text": "38–0",
+            "isCorrect": true
           },
           {
             "letter": "D",
-            "text": "LeBron James",
+            "text": "42–7",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "A",
-        "backstory": "Anthony Davis, now with the Mavericks, will play his first game back in LA on Nov. 28",
-        "funFact": "The Davis-Dončić swap happened mere hours after the Lakers played at Madison Square Garden last season, adding a layer of “only in the NBA” chaos to the saga.",
+        "correctAnswer": "C",
+        "backstory": "Chicago opened its 2025 preseason by defeating Buffalo 38–0, a nationally televised shutout that marked Williams’ first game action with the Bears.",
+        "funFact": "It was the Bears’ first preseason game under new head coach Ben Johnson, hired after Matt Eberflus was fired during the 2024 season.",
         "order": 2
       },
       {
         "id": "q3",
-        "question": "Six weeks after holding a nine-game division lead, where do the Dodgers now sit in the NL West standings?",
+        "question": "After sweeping San Diego, how many games ahead are the Dodgers in the NL West — and what key tiebreaker did they clinch?",
         "tag": "MLB",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2024-10/241030-dodgers-celebrate-lr-fc323a.jpg",
+        "imageUrl": "https://eastvillagetimes.com/wp-content/uploads/2017/06/NL-West-Predictions-MLB-Betting-Season-Preview-Division-Odds.pngpi=89978449&ved=0CBYQjRxqFwoTCKi7mevilI8DFQAAAAAdAAAAABAE",
         "options": [
           {
             "letter": "A",
-            "text": "First place, tied",
+            "text": "1 game ahead, no tiebreaker",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "First place, one game ahead of Padres",
-            "isCorrect": false
-          },
-          {
-            "letter": "C",
-            "text": "Second place, one game behind Padres",
+            "text": "2 games ahead, head-to-head tiebreaker",
             "isCorrect": true
           },
           {
+            "letter": "C",
+            "text": "3 games ahead, division title",
+            "isCorrect": false
+          },
+          {
             "letter": "D",
-            "text": "Third place, two games behind Giants",
+            "text": "2 games ahead, run differential tiebreaker",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "C",
-        "backstory": "After being swept by the Angels, the Dodgers fell out of first for the first time since April 27, now chasing a surging Padres team.",
-        "funFact": "The Padres haven’t held sole possession of first this late in the season since September 25, 2010.",
+        "correctAnswer": "B",
+        "backstory": "The Dodgers turned a one-game deficit into a two-game division lead and secured the season head-to-head tiebreaker after winning 8 of 10 against the Padres.",
+        "funFact": "This was the first time in six weeks the Dodgers won three straight games — but it instantly reasserted their control over the division.",
         "order": 3
       },
       {
         "id": "q4",
-        "question": "What is the Manning family’s likely approach to Arch’s NFL Draft timeline?",
-        "tag": "Manning Gossip",
+        "question": "How many times was MLB star Victor Robles hit by pitches in the five-game rehab stretch against Las Vegas that led to his bat-throwing outburst?",
+        "tag": "Tantrums!",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://people.com/thmb/tfqc0azTJIa-xt_xAseTG41rCVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(963x476:965x478)/the-manning-brothers-1-4baff6a9e74b4b6bb5aa6d4a53cdec24.jpg",
+        "imageUrl": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/08/DF-US-OP-ROBLES.jpg?w=620",
         "options": [
           {
             "letter": "A",
-            "text": "Declare for 2026 draft no matter what",
+            "text": "2",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Return to college until he wins a national title",
+            "text": "3",
             "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "Wait to see draft order and team situations before deciding",
+            "text": "4",
             "isCorrect": true
           },
           {
             "letter": "D",
-            "text": "Skip NFL for another sport",
+            "text": "5",
             "isCorrect": false
           }
         ],
         "correctAnswer": "C",
-        "backstory": "Wait to see draft order and team situations before deciding",
-        "funFact": "NFL scouts expect the Mannings to weigh which team holds the No. 1 pick, who the coach is, and overall fit — and with NIL money, there’s no rush to enter the league.",
+        "backstory": "Robles has long been known as a fiery, sometimes volatile player — his bat toss after repeated HBPs shows the same inability to let things go that’s dogged him in the past.",
+        "funFact": "Robles, once a top Nationals prospect, has had a career marked by highlight-reel plays and equally memorable blowups.",
         "order": 4
       },
       {
         "id": "q5",
-        "question": "How many games has Caitlin Clark missed this season due to multiple injuries, including her current groin injury?",
-        "tag": "I've got the FEVER",
+        "question": "Which star EDGE rusher could the Bengals trade after failing to agree on a new contract this offseason?",
+        "tag": "Moneyball",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2025/06/Indiana-Fever-Pacers-Sports-Entertainment-Tap-Salesforce-to-Ignite-Fan-Engagement-with-Agentic-AI-2.png?w=500&h=281",
+        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_7208,h_4054,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2Fsi%2F01k2x2ydfrwr3mzs7szd.jpg",
         "options": [
           {
             "letter": "A",
-            "text": "10",
+            "text": "Myles Garrett",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "14",
-            "isCorrect": false
-          },
-          {
-            "letter": "C",
-            "text": "19",
+            "text": "Trey Hendrickson",
             "isCorrect": true
           },
           {
+            "letter": "C",
+            "text": "Maxx Crosby",
+            "isCorrect": false
+          },
+          {
             "letter": "D",
-            "text": "22",
+            "text": "Nick Bosa",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "C",
-        "backstory": "Clark has been sidelined for 19 of the Fever’s 32 games, including her latest stretch out with a groin injury suffered on July 15.",
-        "funFact": "Despite missing Clark, the Fever are 10-9 without her and 6-2 over their last eight games.",
+        "correctAnswer": "B",
+        "backstory": "Hendrickson, a four-time Pro Bowler with 17.5 sacks in each of the past two seasons, has yet to reach a contract resolution with Cincinnati.",
+        "funFact": "Despite his dominance, the Bengals are hesitating to pay him — echoing a long history of the team pinching pennies.",
         "order": 5
       },
       {
         "id": "q6",
-        "question": "Despite higher rates of pain, disability, depression, and even dementia, what percentage of surveyed NFL retirees from the 1988 season said they’d still choose to play again?",
-        "tag": "Survey says...",
+        "question": "Which LIV Golf villain crashed the party as the chaotic returnee among the six automatic qualifiers for the 2025 U.S. Ryder Cup team?",
+        "tag": "Golf",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://i.insider.com/5ffcd3a7d184b30018aae349?width=700",
+        "imageUrl": "https://res.cloudinary.com/rydercup-prod/w_1153,h_648,c_fit,q_auto,g_center,dpr_2.0,f_auto/rydercup/images/teams/united-states/RC-AQ-16x9.jpg",
         "options": [
           {
             "letter": "A",
-            "text": "50%",
+            "text": "Phil Mickelson",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "65%",
-            "isCorrect": false
+            "text": "Bryson DeChambeau",
+            "isCorrect": true
           },
           {
             "letter": "C",
-            "text": "78%",
+            "text": "Dustin Johnson",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "90%",
-            "isCorrect": true
+            "text": "Brooks Koepka",
+            "isCorrect": false
           }
         ],
-        "correctAnswer": "D",
-        "backstory": "Nine out of 10 former players — even many who said football wrecked their bodies and minds — said they’d do it all over again because the game gave them money, fame, and life-defining moments.",
-        "funFact": "One player said he’d play again despite an early Alzheimer’s diagnosis, because the competition and camaraderie were worth it.",
+        "correctAnswer": "B",
+        "backstory": "Bryson DeChambeau, the lone LIV Golf rep, muscled his way back onto Team USA by racking up points in majors, making his first Ryder Cup appearance since 2021.",
+        "funFact": "Think of Bryson as the drama-filled “cast member who got kicked off in Season 1… only to storm back in Season 3.\"",
         "order": 6
       }
     ],
@@ -392,7 +392,7 @@
         "share"
       ],
       "customProperties": {
-        "quizTheme": "Fame, Fire, Fallout",
+        "quizTheme": "Don't believe the hype!",
         "specialEvent": false
       }
     },
