@@ -31,7 +31,7 @@
         "id": "6e2389a6-1675-40ac-83d1-594d84a13097",
         "headline": "Bird gets statue, birds roost ",
         "bodyText": "Bird said her first career WNBA points and her final points 20 years later were both layups, making the pose deeply meaningful.\n\nThe statue also depicts her wearing Nike Air Zoom Huarache sneakers, the same model she wore during the Storm’s first championship and her first Olympic gold medal in 2004.",
-        "imageUrl": "https://en.wikipedia.org/wiki/File:WNBA_Sue_Bird_cropped.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sue_Bird_at_2_August_2015_game_cropped.jpg/800px-Sue_Bird_at_2_August_2015_game_cropped.jpg",
         "category": "WNBA",
         "duration": 5000,
         "order": 2,
@@ -55,7 +55,7 @@
         "id": "c38ad6c6-b89d-4d59-a1d1-256a8e43e856",
         "headline": "NBA look ahead",
         "bodyText": "Haliburton’s torn Achilles rules him out for 2025-26, and Turner signed with Milwaukee, leaving Indiana significantly weaker despite their Finals run last season.\n\nHaliburton is the second major star in consecutive offseasons (after Ja Morant in 2024) to suffer a catastrophic Achilles injury during the playoffs.",
-        "imageUrl": "https://en.wikipedia.org/wiki/File:Dr._James_Naismith.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Dr._James_Naismith.jpg",
         "category": "NBA",
         "duration": 5000,
         "order": 4,
@@ -131,7 +131,7 @@
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://en.wikipedia.org/wiki/File:WNBA_Sue_Bird_cropped.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sue_Bird_at_2_August_2015_game_cropped.jpg/800px-Sue_Bird_at_2_August_2015_game_cropped.jpg",
         "options": [
           {
             "letter": "A",
@@ -201,7 +201,7 @@
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://en.wikipedia.org/wiki/File:Dr._James_Naismith.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Dr._James_Naismith.jpg",
         "options": [
           {
             "letter": "A",
