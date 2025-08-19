@@ -1,26 +1,26 @@
 {
   "dailyBlitz": {
-    "id": "2025-08-18",
-    "date": "2025-08-18T09:08",
+    "id": "2025-08-19",
+    "date": "2025-08-19T11:26",
     "version": "1.0",
     "status": "active",
-    "expiresAt": "2025-08-19T16:08:17.732Z",
+    "expiresAt": "2025-08-20T18:26:55.827Z",
     "metadata": {
-      "title": "Blitz #3",
-      "theme": "Don't believe the hype!",
+      "title": "Blitz #4",
+      "theme": "Colts, Birds, & Realignment",
       "difficulty": "medium",
       "estimatedTime": 60,
       "totalPoints": 5000,
-      "questionCount": 6,
+      "questionCount": 10,
       "categories": []
     },
     "stories": [
       {
-        "id": "4d2db14a-f129-4f76-a03b-107c1f765b7f",
-        "headline": "Bolt or Volt?",
-        "bodyText": "The fastest 100-meter dash was 33.71 seconds — impressive for a hunk of wires, but still over 3x SLOWER than Usain Bolt’s human record.\n\nThe robots ran so awkwardly that some looked like your uncle jogging back to the car because he left the lights on.",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7cNEA7x8PiiW3qc6QD4_EA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzUw/https://s.yimg.com/os/creatr-uploaded-images/2025-08/c076c520-7b98-11f0-afcf-d00ed75a93dc",
-        "category": "Our Robot Overlords",
+        "id": "89087360-857b-45dd-8cf5-f316ba07b9e6",
+        "headline": "El Busto replaces El Busto",
+        "bodyText": "The Colts signed Jones to a one-year, $14M deal after his release from the Giants, and he beat out Richardson in training camp to earn the Week 1 start.\n\nRichardson is the highest-drafted QB in Colts history since Andrew Luck went No. 1 overall in 2012.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Indianapolis_Colts_Uniforms_2023-Present.png/330px-Indianapolis_Colts_Uniforms_2023-Present.png",
+        "category": "BREAKING: NFL",
         "duration": 5000,
         "order": 1,
         "relatedQuestionIds": [
@@ -28,11 +28,11 @@
         ]
       },
       {
-        "id": "1633cc7b-891e-4817-85bc-850302ec8f0c",
-        "headline": "Bear down",
-        "bodyText": "Chicago opened its 2025 preseason by defeating Buffalo 38–0, a nationally televised shutout that marked Williams’ first game action with the Bears.\n\nIt was the Bears’ first preseason game under new head coach Ben Johnson, hired after Matt Eberflus was fired during the 2024 season.",
-        "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/18/USAT/85703920007-2230676684.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp",
-        "category": "NFL",
+        "id": "6e2389a6-1675-40ac-83d1-594d84a13097",
+        "headline": "Bird gets statue, birds roost ",
+        "bodyText": "Bird said her first career WNBA points and her final points 20 years later were both layups, making the pose deeply meaningful.\n\nThe statue also depicts her wearing Nike Air Zoom Huarache sneakers, the same model she wore during the Storm’s first championship and her first Olympic gold medal in 2004.",
+        "imageUrl": "https://en.wikipedia.org/wiki/File:WNBA_Sue_Bird_cropped.jpg",
+        "category": "WNBA",
         "duration": 5000,
         "order": 2,
         "relatedQuestionIds": [
@@ -40,10 +40,10 @@
         ]
       },
       {
-        "id": "61dcf12b-66f3-49cd-bb4d-07137d5bbe3c",
-        "headline": "Back in the saddle",
-        "bodyText": "The Dodgers turned a one-game deficit into a two-game division lead and secured the season head-to-head tiebreaker after winning 8 of 10 against the Padres.\n\nThis was the first time in six weeks the Dodgers won three straight games — but it instantly reasserted their control over the division.",
-        "imageUrl": "https://wp.clutchpoints.com/wp-content/uploads/2025/02/NL-West-Division-Winner-2025-Prediction-Odds-Pick.jpg?w=1200",
+        "id": "0a5baca7-67af-4f49-8f2b-ff334ace3469",
+        "headline": "Do we need more teams?",
+        "bodyText": "While cities like Nashville, Salt Lake City, Montreal, and even Mexico City have been floated, Portland and Charlotte are considered the most logical fits under Manfred’s geographic emphasis.\n\nPortland would give Seattle a natural regional rival, while Charlotte would do the same for Atlanta. The Brewers would move back to the American League for the first time since 1998.",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!rI1g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F635d2ff1-a3dd-4091-8529-56fbf8803c80_720x405.png",
         "category": "MLB",
         "duration": 5000,
         "order": 3,
@@ -52,11 +52,11 @@
         ]
       },
       {
-        "id": "e4ba8fe6-e735-4e7e-abcc-dc4102f4ffed",
-        "headline": "Notorious hothead melts down",
-        "bodyText": "Robles has long been known as a fiery, sometimes volatile player — his bat toss after repeated HBPs shows the same inability to let things go that’s dogged him in the past.\n\nRobles, once a top Nationals prospect, has had a career marked by highlight-reel plays and equally memorable blowups.",
-        "imageUrl": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/08/DF-US-OP-ROBLES.jpg?w=620",
-        "category": "Tantrums!",
+        "id": "c38ad6c6-b89d-4d59-a1d1-256a8e43e856",
+        "headline": "NBA look ahead",
+        "bodyText": "Haliburton’s torn Achilles rules him out for 2025-26, and Turner signed with Milwaukee, leaving Indiana significantly weaker despite their Finals run last season.\n\nHaliburton is the second major star in consecutive offseasons (after Ja Morant in 2024) to suffer a catastrophic Achilles injury during the playoffs.",
+        "imageUrl": "https://en.wikipedia.org/wiki/File:Dr._James_Naismith.jpg",
+        "category": "NBA",
         "duration": 5000,
         "order": 4,
         "relatedQuestionIds": [
@@ -64,11 +64,11 @@
         ]
       },
       {
-        "id": "d8dc48b6-dbea-45f3-9064-2b9d2c710206",
-        "headline": "Just pay the dude",
-        "bodyText": "Hendrickson, a four-time Pro Bowler with 17.5 sacks in each of the past two seasons, has yet to reach a contract resolution with Cincinnati.\n\nDespite his dominance, the Bengals are hesitating to pay him — echoing a long history of the team pinching pennies.",
-        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_7208,h_4054,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2Fsi%2F01k2x2ydfrwr3mzs7szd.jpg",
-        "category": "Moneyball",
+        "id": "36ce09e9-2462-4499-9cf9-41f7dc6b7c15",
+        "headline": "yeah last night was preseason, but...",
+        "bodyText": "Burrow opened with a touchdown drive featuring Ja’Marr Chase, then followed with another to Charlie Jones without Chase and Tee Higgins on the field.\n\nBurrow finished 9-of-14 for 62 yards and a 97.2 passer rating, his busiest preseason showing ever with 28 snaps.",
+        "imageUrl": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/f_auto/bengals/smpau5mph7aeh6bimblj.jpg",
+        "category": "NFL Scores",
         "duration": 5000,
         "order": 5,
         "relatedQuestionIds": [
@@ -76,11 +76,11 @@
         ]
       },
       {
-        "id": "8e395a3e-b8d8-4516-b7df-cbd87e5b79c3",
-        "headline": "Ryder Cup drama",
-        "bodyText": "Bryson DeChambeau, the lone LIV Golf rep, muscled his way back onto Team USA by racking up points in majors, making his first Ryder Cup appearance since 2021.\n\nThink of Bryson as the drama-filled “cast member who got kicked off in Season 1… only to storm back in Season 3.\"",
-        "imageUrl": "https://res.cloudinary.com/rydercup-prod/w_1153,h_648,c_fit,q_auto,g_center,dpr_2.0,f_auto/rydercup/images/teams/united-states/RC-AQ-16x9.jpg",
-        "category": "Golf",
+        "id": "f2d2c555-2f0d-4212-baa1-ba1f4a7c0cad",
+        "headline": "What are they hiding???",
+        "bodyText": "McVay emphasized “day at a time” and “week at a time” multiple times when pressed on Stafford’s back issue, instead of offering certainty about Week 1.\n\nThis isn’t Stafford’s first durability question — back problems also cut short parts of his 2019 season in Detroit.",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/euspVsdmHnFze2GBbpMSWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/los_angeles_rams_wire_usa_today_sports_articles_716/13da99dc33763ce8bde3fd2c4578c455",
+        "category": "NFL",
         "duration": 5000,
         "order": 6,
         "relatedQuestionIds": [
@@ -91,212 +91,212 @@
     "questions": [
       {
         "id": "q1",
-        "question": "At China’s first “Robot Olympics,” what blazing 100-meter dash time did Unitree’s humanoid sprinter clock in at?",
-        "tag": "Our Robot Overlords",
+        "question": "Who did the Colts name as their Week 1 starting quarterback in 2025 instead of former top pick Anthony Richardson?",
+        "tag": "BREAKING: NFL",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/7cNEA7x8PiiW3qc6QD4_EA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzUw/https://s.yimg.com/os/creatr-uploaded-images/2025-08/c076c520-7b98-11f0-afcf-d00ed75a93dc",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Indianapolis_Colts_Uniforms_2023-Present.png/330px-Indianapolis_Colts_Uniforms_2023-Present.png",
         "options": [
           {
             "letter": "A",
-            "text": "9.58 seconds",
+            "text": "Jacoby Brissett",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "15.5 seconds",
+            "text": "Matt Ryan",
             "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "33.71 seconds",
+            "text": "Daniel Jones",
             "isCorrect": true
           },
           {
             "letter": "D",
-            "text": "1 minute flat",
+            "text": "Carson Wentz",
             "isCorrect": false
           }
         ],
         "correctAnswer": "C",
-        "backstory": "The fastest 100-meter dash was 33.71 seconds — impressive for a hunk of wires, but still over 3x SLOWER than Usain Bolt’s human record.",
-        "funFact": "The robots ran so awkwardly that some looked like your uncle jogging back to the car because he left the lights on.",
+        "backstory": "The Colts signed Jones to a one-year, $14M deal after his release from the Giants, and he beat out Richardson in training camp to earn the Week 1 start.",
+        "funFact": "Richardson is the highest-drafted QB in Colts history since Andrew Luck went No. 1 overall in 2012.",
         "order": 1
       },
       {
         "id": "q2",
-        "question": "What was the final score of the Bears’ preseason win over the Bills in Caleb Williams’ debut?",
-        "tag": "NFL",
+        "question": "Sue Bird is the first WNBA player honored with a statue outside her team’s arena. What symbolic detail did she choose for her statue’s pose?",
+        "tag": "WNBA",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/18/USAT/85703920007-2230676684.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp",
+        "imageUrl": "https://en.wikipedia.org/wiki/File:WNBA_Sue_Bird_cropped.jpg",
         "options": [
           {
             "letter": "A",
-            "text": "24–3",
+            "text": "A pull-up jumper",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "31–10",
+            "text": "A no-look pass",
             "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "38–0",
+            "text": "A layup",
             "isCorrect": true
           },
           {
             "letter": "D",
-            "text": "42–7",
+            "text": "A three-pointer",
             "isCorrect": false
           }
         ],
         "correctAnswer": "C",
-        "backstory": "Chicago opened its 2025 preseason by defeating Buffalo 38–0, a nationally televised shutout that marked Williams’ first game action with the Bears.",
-        "funFact": "It was the Bears’ first preseason game under new head coach Ben Johnson, hired after Matt Eberflus was fired during the 2024 season.",
+        "backstory": "Bird said her first career WNBA points and her final points 20 years later were both layups, making the pose deeply meaningful.",
+        "funFact": "The statue also depicts her wearing Nike Air Zoom Huarache sneakers, the same model she wore during the Storm’s first championship and her first Olympic gold medal in 2004.",
         "order": 2
       },
       {
         "id": "q3",
-        "question": "After sweeping San Diego, how many games ahead are the Dodgers in the NL West — and what key tiebreaker did they clinch?",
+        "question": "Under MLB’s proposed realignment with expansion, which two cities are most often mentioned as the likeliest candidates for MLB expansion teams?",
         "tag": "MLB",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://wp.clutchpoints.com/wp-content/uploads/2025/02/NL-West-Division-Winner-2025-Prediction-Odds-Pick.jpg?w=1200",
+        "imageUrl": "https://substackcdn.com/image/fetch/$s_!rI1g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F635d2ff1-a3dd-4091-8529-56fbf8803c80_720x405.png",
         "options": [
           {
             "letter": "A",
-            "text": "1 game ahead, no tiebreaker",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "2 games ahead, head-to-head tiebreaker",
+            "text": "Portland and Charlotte",
             "isCorrect": true
           },
           {
+            "letter": "B",
+            "text": "Nashville and Montreal",
+            "isCorrect": false
+          },
+          {
             "letter": "C",
-            "text": "3 games ahead, division title",
+            "text": "Salt Lake City and Orlando",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "2 games ahead, run differential tiebreaker",
+            "text": "Mexico City and Havana",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "B",
-        "backstory": "The Dodgers turned a one-game deficit into a two-game division lead and secured the season head-to-head tiebreaker after winning 8 of 10 against the Padres.",
-        "funFact": "This was the first time in six weeks the Dodgers won three straight games — but it instantly reasserted their control over the division.",
+        "correctAnswer": "A",
+        "backstory": "While cities like Nashville, Salt Lake City, Montreal, and even Mexico City have been floated, Portland and Charlotte are considered the most logical fits under Manfred’s geographic emphasis.",
+        "funFact": "Portland would give Seattle a natural regional rival, while Charlotte would do the same for Atlanta. The Brewers would move back to the American League for the first time since 1998.",
         "order": 3
       },
       {
         "id": "q4",
-        "question": "How many times was MLB star Victor Robles hit by pitches in the five-game rehab stretch against Las Vegas that led to his bat-throwing outburst?",
-        "tag": "Tantrums!",
+        "question": "Which Eastern Conference team lost both Tyrese Haliburton (Achilles) and Myles Turner in the same offseason, making them one of the league’s clearest “got worse” squads?",
+        "tag": "NBA",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/08/DF-US-OP-ROBLES.jpg?w=620",
+        "imageUrl": "https://en.wikipedia.org/wiki/File:Dr._James_Naismith.jpg",
         "options": [
           {
             "letter": "A",
-            "text": "2",
+            "text": "Orlando Magic",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "3",
-            "isCorrect": false
-          },
-          {
-            "letter": "C",
-            "text": "4",
+            "text": "Indiana Pacers",
             "isCorrect": true
           },
           {
+            "letter": "C",
+            "text": "Cleveland Cavaliers",
+            "isCorrect": false
+          },
+          {
             "letter": "D",
-            "text": "5",
+            "text": "Chicago Bulls",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "C",
-        "backstory": "Robles has long been known as a fiery, sometimes volatile player — his bat toss after repeated HBPs shows the same inability to let things go that’s dogged him in the past.",
-        "funFact": "Robles, once a top Nationals prospect, has had a career marked by highlight-reel plays and equally memorable blowups.",
+        "correctAnswer": "B",
+        "backstory": "Haliburton’s torn Achilles rules him out for 2025-26, and Turner signed with Milwaukee, leaving Indiana significantly weaker despite their Finals run last season.",
+        "funFact": "Haliburton is the second major star in consecutive offseasons (after Ja Morant in 2024) to suffer a catastrophic Achilles injury during the playoffs.",
         "order": 4
       },
       {
         "id": "q5",
-        "question": "Which star EDGE rusher could the Bengals trade after failing to agree on a new contract this offseason?",
-        "tag": "Moneyball",
+        "question": "How many touchdown drives did Joe Burrow lead in the Bengals’ preseason Week 2 game against the Commanders?",
+        "tag": "NFL Scores",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_7208,h_4054,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2Fsi%2F01k2x2ydfrwr3mzs7szd.jpg",
+        "imageUrl": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/f_auto/bengals/smpau5mph7aeh6bimblj.jpg",
         "options": [
           {
             "letter": "A",
-            "text": "Myles Garrett",
+            "text": "1",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Trey Hendrickson",
+            "text": "2",
             "isCorrect": true
           },
           {
             "letter": "C",
-            "text": "Maxx Crosby",
+            "text": "3",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "Nick Bosa",
+            "text": "4",
             "isCorrect": false
           }
         ],
         "correctAnswer": "B",
-        "backstory": "Hendrickson, a four-time Pro Bowler with 17.5 sacks in each of the past two seasons, has yet to reach a contract resolution with Cincinnati.",
-        "funFact": "Despite his dominance, the Bengals are hesitating to pay him — echoing a long history of the team pinching pennies.",
+        "backstory": "Burrow opened with a touchdown drive featuring Ja’Marr Chase, then followed with another to Charlie Jones without Chase and Tee Higgins on the field.",
+        "funFact": "Burrow finished 9-of-14 for 62 yards and a 97.2 passer rating, his busiest preseason showing ever with 28 snaps.",
         "order": 5
       },
       {
         "id": "q6",
-        "question": "Which LIV Golf villain crashed the party as the chaotic returnee among the six automatic qualifiers for the 2025 U.S. Ryder Cup team?",
-        "tag": "Golf",
+        "question": "Which phrase did coach Sean McVay repeatedly use when asked about Matthew Stafford’s status, fueling speculation the Rams aren’t being fully transparent?",
+        "tag": "NFL",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://res.cloudinary.com/rydercup-prod/w_1153,h_648,c_fit,q_auto,g_center,dpr_2.0,f_auto/rydercup/images/teams/united-states/RC-AQ-16x9.jpg",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/euspVsdmHnFze2GBbpMSWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/los_angeles_rams_wire_usa_today_sports_articles_716/13da99dc33763ce8bde3fd2c4578c455",
         "options": [
           {
             "letter": "A",
-            "text": "Phil Mickelson",
+            "text": "“Full speed ahead”",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Bryson DeChambeau",
+            "text": "“One day at a time”",
             "isCorrect": true
           },
           {
             "letter": "C",
-            "text": "Dustin Johnson",
+            "text": "“Locked and loaded”",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "Brooks Koepka",
+            "text": "\"On to Cincinatti\"",
             "isCorrect": false
           }
         ],
         "correctAnswer": "B",
-        "backstory": "Bryson DeChambeau, the lone LIV Golf rep, muscled his way back onto Team USA by racking up points in majors, making his first Ryder Cup appearance since 2021.",
-        "funFact": "Think of Bryson as the drama-filled “cast member who got kicked off in Season 1… only to storm back in Season 3.\"",
+        "backstory": "McVay emphasized “day at a time” and “week at a time” multiple times when pressed on Stafford’s back issue, instead of offering certainty about Week 1.",
+        "funFact": "This isn’t Stafford’s first durability question — back problems also cut short parts of his 2019 season in Detroit.",
         "order": 6
       }
     ],
@@ -392,7 +392,7 @@
         "share"
       ],
       "customProperties": {
-        "quizTheme": "Don't believe the hype!",
+        "quizTheme": "Colts, Birds, & Realignment",
         "specialEvent": false
       }
     },
