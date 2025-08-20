@@ -1,26 +1,26 @@
 {
   "dailyBlitz": {
-    "id": "2025-08-19",
-    "date": "2025-08-19T11:26",
+    "id": "2025-08-20",
+    "date": "2025-08-20T15:04:19.118Z",
     "version": "1.0",
     "status": "active",
-    "expiresAt": "2025-08-20T18:26:55.827Z",
+    "expiresAt": "2025-08-21T15:04:19.118Z",
     "metadata": {
-      "title": "Blitz #4",
-      "theme": "Colts, Birds, & Realignment",
+      "title": "Blitz #5",
+      "theme": "🏈-⚾️-🏀-⚾️-⚽️-🏈",
       "difficulty": "medium",
       "estimatedTime": 60,
       "totalPoints": 5000,
-      "questionCount": 10,
+      "questionCount": 6,
       "categories": []
     },
     "stories": [
       {
-        "id": "89087360-857b-45dd-8cf5-f316ba07b9e6",
-        "headline": "El Busto replaces El Busto",
-        "bodyText": "The Colts signed Jones to a one-year, $14M deal after his release from the Giants, and he beat out Richardson in training camp to earn the Week 1 start.\n\nRichardson is the highest-drafted QB in Colts history since Andrew Luck went No. 1 overall in 2012.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Indianapolis_Colts_Uniforms_2023-Present.png/330px-Indianapolis_Colts_Uniforms_2023-Present.png",
-        "category": "BREAKING: NFL",
+        "id": "b31b9992-858c-46e2-8969-fe5afa896126",
+        "headline": "Vikings shopping list",
+        "bodyText": "With Jordan Addison suspended three games, Rondale Moore out for the season, and Jalen Nailor week-to-week, Minnesota is exploring veteran WR trades to stabilize the position.\n\nMinnesota has already lost three of its top five receivers before Week 1, leaving Justin Jefferson as the lone established starter.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Vikings_2024_Vapor_Fuse.png",
+        "category": "NFL",
         "duration": 5000,
         "order": 1,
         "relatedQuestionIds": [
@@ -28,11 +28,11 @@
         ]
       },
       {
-        "id": "6e2389a6-1675-40ac-83d1-594d84a13097",
-        "headline": "Bird gets statue, birds roost ",
-        "bodyText": "Bird said her first career WNBA points and her final points 20 years later were both layups, making the pose deeply meaningful.\n\nThe statue also depicts her wearing Nike Air Zoom Huarache sneakers, the same model she wore during the Storm’s first championship and her first Olympic gold medal in 2004.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sue_Bird_at_2_August_2015_game_cropped.jpg/800px-Sue_Bird_at_2_August_2015_game_cropped.jpg",
-        "category": "WNBA",
+        "id": "c9bc35cf-994d-4c6a-b370-a269759bc52a",
+        "headline": "Nine times...",
+        "bodyText": "The Yankees hit nine home runs vs. the Rays, matching their nine-homer explosion back in March against the Brewers, making them the first team in MLB history with two nine-homer games in one season.\n\nOnly four teams in MLB history have ever hit nine or more homers in a game — the record is 10 by the 1987 Blue Jays.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/800px-New_York_Yankees_Primary_Logo.svg.png",
+        "category": "MLB Record",
         "duration": 5000,
         "order": 2,
         "relatedQuestionIds": [
@@ -40,11 +40,11 @@
         ]
       },
       {
-        "id": "0a5baca7-67af-4f49-8f2b-ff334ace3469",
-        "headline": "Do we need more teams?",
-        "bodyText": "While cities like Nashville, Salt Lake City, Montreal, and even Mexico City have been floated, Portland and Charlotte are considered the most logical fits under Manfred’s geographic emphasis.\n\nPortland would give Seattle a natural regional rival, while Charlotte would do the same for Atlanta. The Brewers would move back to the American League for the first time since 1998.",
-        "imageUrl": "https://substackcdn.com/image/fetch/$s_!rI1g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F635d2ff1-a3dd-4091-8529-56fbf8803c80_720x405.png",
-        "category": "MLB",
+        "id": "8c7b3fcc-3e87-4bc2-8cb9-d196df2c10e9",
+        "headline": "Bad Blood",
+        "bodyText": "New York and Minnesota split their 2025 regular-season series 3–1 in favor of the Lynx, after the Liberty beat them in the 2024 Finals to win their first title.\n\nIonescu buried a clutch 3-pointer with seconds left in last night's game, recalling her Game 3 dagger in the 2024 Finals. After the shot, Ionescu smiled and said “Night, night,” sending the home crowd into a frenzy.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/WNBA_logo.svg/1920px-WNBA_logo.svg.png",
+        "category": "WNBA",
         "duration": 5000,
         "order": 3,
         "relatedQuestionIds": [
@@ -52,11 +52,11 @@
         ]
       },
       {
-        "id": "c38ad6c6-b89d-4d59-a1d1-256a8e43e856",
-        "headline": "NBA look ahead",
-        "bodyText": "Haliburton’s torn Achilles rules him out for 2025-26, and Turner signed with Milwaukee, leaving Indiana significantly weaker despite their Finals run last season.\n\nHaliburton is the second major star in consecutive offseasons (after Ja Morant in 2024) to suffer a catastrophic Achilles injury during the playoffs.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Dr._James_Naismith.jpg",
-        "category": "NBA",
+        "id": "3d622fcc-cda6-4a38-820d-b7cd93e5a9c8",
+        "headline": "Wait, what? The Jays are first?",
+        "bodyText": "Scherzer went six innings, allowing just one run on four hits, and has now thrown at least six innings in five straight starts.\n\nScherzer is 4–2 with Toronto this season, part of the reason the Jays sit atop the AL East. ",
+        "imageUrl": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/51/5518f619-c603-504d-b601-d75c9bf30caa/686ae35a0e693.image.jpg?resize=1200%2C797",
+        "category": "MLB",
         "duration": 5000,
         "order": 4,
         "relatedQuestionIds": [
@@ -64,11 +64,11 @@
         ]
       },
       {
-        "id": "36ce09e9-2462-4499-9cf9-41f7dc6b7c15",
-        "headline": "yeah last night was preseason, but...",
-        "bodyText": "Burrow opened with a touchdown drive featuring Ja’Marr Chase, then followed with another to Charlie Jones without Chase and Tee Higgins on the field.\n\nBurrow finished 9-of-14 for 62 yards and a 97.2 passer rating, his busiest preseason showing ever with 28 snaps.",
-        "imageUrl": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/f_auto/bengals/smpau5mph7aeh6bimblj.jpg",
-        "category": "NFL Scores",
+        "id": "7d80b390-8072-494e-a644-0ff7707a3787",
+        "headline": "An arsenal of talent",
+        "bodyText": "U21 players can save clubs millions in transfer fees by stepping straight into senior squads, improving performance while boosting homegrown quotas.\n\nArsenal’s Hale End academy has produced talents like Bukayo Saka, Emile Smith Rowe, and now Max Dowman — all crucial as “free” stars from the club’s system.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1920px-Premier_League_Logo.svg.png",
+        "category": "Premier League",
         "duration": 5000,
         "order": 5,
         "relatedQuestionIds": [
@@ -76,11 +76,11 @@
         ]
       },
       {
-        "id": "f2d2c555-2f0d-4212-baa1-ba1f4a7c0cad",
-        "headline": "What are they hiding???",
-        "bodyText": "McVay emphasized “day at a time” and “week at a time” multiple times when pressed on Stafford’s back issue, instead of offering certainty about Week 1.\n\nThis isn’t Stafford’s first durability question — back problems also cut short parts of his 2019 season in Detroit.",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/euspVsdmHnFze2GBbpMSWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/los_angeles_rams_wire_usa_today_sports_articles_716/13da99dc33763ce8bde3fd2c4578c455",
-        "category": "NFL",
+        "id": "a96bfe9c-8eab-4213-9440-e416bb36994e",
+        "headline": "The wait is OVER",
+        "bodyText": "The Wildcats and Cyclones will meet Aug. 23 in Dublin, a neutral-site showcase. They are the only Power 5 teams squaring off in Week 0, with both offenses poised to exploit the other’s defensive weaknesses.\n\nThe rivalry has been played annually since 1917 — this will be its first international edition.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c338212f79392a6870f4530/9fa07a41-1191-476c-95ca-4c1b0649d250/CFB+Map+Final.png?format=2500w",
+        "category": "NCAAF",
         "duration": 5000,
         "order": 6,
         "relatedQuestionIds": [
@@ -91,212 +91,212 @@
     "questions": [
       {
         "id": "q1",
-        "question": "Who did the Colts name as their Week 1 starting quarterback in 2025 instead of former top pick Anthony Richardson?",
-        "tag": "BREAKING: NFL",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Indianapolis_Colts_Uniforms_2023-Present.png/330px-Indianapolis_Colts_Uniforms_2023-Present.png",
-        "options": [
-          {
-            "letter": "A",
-            "text": "Jacoby Brissett",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "Matt Ryan",
-            "isCorrect": false
-          },
-          {
-            "letter": "C",
-            "text": "Daniel Jones",
-            "isCorrect": true
-          },
-          {
-            "letter": "D",
-            "text": "Carson Wentz",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "C",
-        "backstory": "The Colts signed Jones to a one-year, $14M deal after his release from the Giants, and he beat out Richardson in training camp to earn the Week 1 start.",
-        "funFact": "Richardson is the highest-drafted QB in Colts history since Andrew Luck went No. 1 overall in 2012.",
-        "order": 1
-      },
-      {
-        "id": "q2",
-        "question": "Sue Bird is the first WNBA player honored with a statue outside her team’s arena. What symbolic detail did she choose for her statue’s pose?",
-        "tag": "WNBA",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sue_Bird_at_2_August_2015_game_cropped.jpg/800px-Sue_Bird_at_2_August_2015_game_cropped.jpg",
-        "options": [
-          {
-            "letter": "A",
-            "text": "A pull-up jumper",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "A no-look pass",
-            "isCorrect": false
-          },
-          {
-            "letter": "C",
-            "text": "A layup",
-            "isCorrect": true
-          },
-          {
-            "letter": "D",
-            "text": "A three-pointer",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "C",
-        "backstory": "Bird said her first career WNBA points and her final points 20 years later were both layups, making the pose deeply meaningful.",
-        "funFact": "The statue also depicts her wearing Nike Air Zoom Huarache sneakers, the same model she wore during the Storm’s first championship and her first Olympic gold medal in 2004.",
-        "order": 2
-      },
-      {
-        "id": "q3",
-        "question": "Under MLB’s proposed realignment with expansion, which two cities are most often mentioned as the likeliest candidates for MLB expansion teams?",
-        "tag": "MLB",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://substackcdn.com/image/fetch/$s_!rI1g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F635d2ff1-a3dd-4091-8529-56fbf8803c80_720x405.png",
-        "options": [
-          {
-            "letter": "A",
-            "text": "Portland and Charlotte",
-            "isCorrect": true
-          },
-          {
-            "letter": "B",
-            "text": "Nashville and Montreal",
-            "isCorrect": false
-          },
-          {
-            "letter": "C",
-            "text": "Salt Lake City and Orlando",
-            "isCorrect": false
-          },
-          {
-            "letter": "D",
-            "text": "Mexico City and Havana",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "A",
-        "backstory": "While cities like Nashville, Salt Lake City, Montreal, and even Mexico City have been floated, Portland and Charlotte are considered the most logical fits under Manfred’s geographic emphasis.",
-        "funFact": "Portland would give Seattle a natural regional rival, while Charlotte would do the same for Atlanta. The Brewers would move back to the American League for the first time since 1998.",
-        "order": 3
-      },
-      {
-        "id": "q4",
-        "question": "Which Eastern Conference team lost both Tyrese Haliburton (Achilles) and Myles Turner in the same offseason, making them one of the league’s clearest “got worse” squads?",
-        "tag": "NBA",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Dr._James_Naismith.jpg",
-        "options": [
-          {
-            "letter": "A",
-            "text": "Orlando Magic",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "Indiana Pacers",
-            "isCorrect": true
-          },
-          {
-            "letter": "C",
-            "text": "Cleveland Cavaliers",
-            "isCorrect": false
-          },
-          {
-            "letter": "D",
-            "text": "Chicago Bulls",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "B",
-        "backstory": "Haliburton’s torn Achilles rules him out for 2025-26, and Turner signed with Milwaukee, leaving Indiana significantly weaker despite their Finals run last season.",
-        "funFact": "Haliburton is the second major star in consecutive offseasons (after Ja Morant in 2024) to suffer a catastrophic Achilles injury during the playoffs.",
-        "order": 4
-      },
-      {
-        "id": "q5",
-        "question": "How many touchdown drives did Joe Burrow lead in the Bengals’ preseason Week 2 game against the Commanders?",
-        "tag": "NFL Scores",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/f_auto/bengals/smpau5mph7aeh6bimblj.jpg",
-        "options": [
-          {
-            "letter": "A",
-            "text": "1",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "2",
-            "isCorrect": true
-          },
-          {
-            "letter": "C",
-            "text": "3",
-            "isCorrect": false
-          },
-          {
-            "letter": "D",
-            "text": "4",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "B",
-        "backstory": "Burrow opened with a touchdown drive featuring Ja’Marr Chase, then followed with another to Charlie Jones without Chase and Tee Higgins on the field.",
-        "funFact": "Burrow finished 9-of-14 for 62 yards and a 97.2 passer rating, his busiest preseason showing ever with 28 snaps.",
-        "order": 5
-      },
-      {
-        "id": "q6",
-        "question": "Which phrase did coach Sean McVay repeatedly use when asked about Matthew Stafford’s status, fueling speculation the Rams aren’t being fully transparent?",
+        "question": "Why might the Vikings be active buyers at the roster cutdown deadline, according to reports?",
         "tag": "NFL",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/euspVsdmHnFze2GBbpMSWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/los_angeles_rams_wire_usa_today_sports_articles_716/13da99dc33763ce8bde3fd2c4578c455",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Vikings_2024_Vapor_Fuse.png",
         "options": [
           {
             "letter": "A",
-            "text": "“Full speed ahead”",
+            "text": "Their defense lacks depth",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "“One day at a time”",
+            "text": "They have multiple wide receiver absences",
             "isCorrect": true
           },
           {
             "letter": "C",
-            "text": "“Locked and loaded”",
+            "text": "They need a new kicker",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "\"On to Cincinatti\"",
+            "text": "Their offensive line is injured",
             "isCorrect": false
           }
         ],
         "correctAnswer": "B",
-        "backstory": "McVay emphasized “day at a time” and “week at a time” multiple times when pressed on Stafford’s back issue, instead of offering certainty about Week 1.",
-        "funFact": "This isn’t Stafford’s first durability question — back problems also cut short parts of his 2019 season in Detroit.",
+        "backstory": "With Jordan Addison suspended three games, Rondale Moore out for the season, and Jalen Nailor week-to-week, Minnesota is exploring veteran WR trades to stabilize the position.",
+        "funFact": "Minnesota has already lost three of its top five receivers before Week 1, leaving Justin Jefferson as the lone established starter.",
+        "order": 1
+      },
+      {
+        "id": "q2",
+        "question": "In their 13–3 win last night over the Rays, the Yankees became the first MLB team ever to do what in a single season?",
+        "tag": "MLB Record",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/800px-New_York_Yankees_Primary_Logo.svg.png",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Hit 100 home runs by August",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Have multiple nine-homer games",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Go back-to-back-to-back twice in one game",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Score 20+ runs five times",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "backstory": "The Yankees hit nine home runs vs. the Rays, matching their nine-homer explosion back in March against the Brewers, making them the first team in MLB history with two nine-homer games in one season.",
+        "funFact": "Only four teams in MLB history have ever hit nine or more homers in a game — the record is 10 by the 1987 Blue Jays.",
+        "order": 2
+      },
+      {
+        "id": "q3",
+        "question": "Which two WNBA teams, who met in the 2024 Finals, played four games in a 20-day span during the 2025 season, cementing their status as the league’s best rivalry?",
+        "tag": "WNBA",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/WNBA_logo.svg/1920px-WNBA_logo.svg.png",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Aces & Sun",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Lynx & Liberty",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Storm & Mercury",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Wings & Sky",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "backstory": "New York and Minnesota split their 2025 regular-season series 3–1 in favor of the Lynx, after the Liberty beat them in the 2024 Finals to win their first title.",
+        "funFact": "Ionescu buried a clutch 3-pointer with seconds left in last night's game, recalling her Game 3 dagger in the 2024 Finals. After the shot, Ionescu smiled and said “Night, night,” sending the home crowd into a frenzy.",
+        "order": 3
+      },
+      {
+        "id": "q4",
+        "question": "Which veteran pitcher earned his 220th career win by throwing six innings in the Blue Jays’ 7–3 victory over the Pirates last night?",
+        "tag": "MLB",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/51/5518f619-c603-504d-b601-d75c9bf30caa/686ae35a0e693.image.jpg?resize=1200%2C797",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Justin Verlander",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Max Scherzer",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Kevin Gausman",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Chris Bassitt",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "backstory": "Scherzer went six innings, allowing just one run on four hits, and has now thrown at least six innings in five straight starts.",
+        "funFact": "Scherzer is 4–2 with Toronto this season, part of the reason the Jays sit atop the AL East. ",
+        "order": 4
+      },
+      {
+        "id": "q5",
+        "question": "Why can breakout U21 stars like Max Dowman (Arsenal) or Rio Ngumoha (Liverpool) have a massive impact on their clubs?",
+        "tag": "Premier League",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1920px-Premier_League_Logo.svg.png",
+        "options": [
+          {
+            "letter": "A",
+            "text": "They count as free agents",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "They don’t require work permits",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "They’re homegrown, cheap talent that can become first-team regulars",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "They’re always loaned abroad",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "backstory": "U21 players can save clubs millions in transfer fees by stepping straight into senior squads, improving performance while boosting homegrown quotas.",
+        "funFact": "Arsenal’s Hale End academy has produced talents like Bukayo Saka, Emile Smith Rowe, and now Max Dowman — all crucial as “free” stars from the club’s system.",
+        "order": 5
+      },
+      {
+        "id": "q6",
+        "question": "Which Week 0 matchup (THIS WEEKEND), nicknamed “Farmageddon,” will be played in Dublin, Ireland to open the 2025 college football season?",
+        "tag": "NCAAF",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c338212f79392a6870f4530/9fa07a41-1191-476c-95ca-4c1b0649d250/CFB+Map+Final.png?format=2500w",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Kansas State vs. Iowa State",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Fresno State vs. Kansas",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Stanford vs. Hawaii",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "North Carolina Central vs. Southern",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "backstory": "The Wildcats and Cyclones will meet Aug. 23 in Dublin, a neutral-site showcase. They are the only Power 5 teams squaring off in Week 0, with both offenses poised to exploit the other’s defensive weaknesses.",
+        "funFact": "The rivalry has been played annually since 1917 — this will be its first international edition.",
         "order": 6
       }
     ],
@@ -392,7 +392,7 @@
         "share"
       ],
       "customProperties": {
-        "quizTheme": "Colts, Birds, & Realignment",
+        "quizTheme": "🏈-⚾️-🏀-⚾️-⚽️-🏈",
         "specialEvent": false
       }
     },
