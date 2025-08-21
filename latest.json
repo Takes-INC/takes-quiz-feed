@@ -1,26 +1,26 @@
 {
   "dailyBlitz": {
-    "id": "2025-08-20",
-    "date": "2025-08-20T15:04:19.118Z",
+    "id": "2025-08-21",
+    "date": "2025-08-21T08:43",
     "version": "1.0",
     "status": "active",
-    "expiresAt": "2025-08-21T15:04:19.118Z",
+    "expiresAt": "2025-08-22T15:43:12.798Z",
     "metadata": {
-      "title": "Blitz #5",
-      "theme": "🏈-⚾️-🏀-⚾️-⚽️-🏈",
+      "title": "Blitz #6",
+      "theme": "👸🏀-⚾️-🏈-⚾️-⚽️-🏈",
       "difficulty": "medium",
       "estimatedTime": 60,
       "totalPoints": 5000,
-      "questionCount": 6,
+      "questionCount": 10,
       "categories": []
     },
     "stories": [
       {
-        "id": "b31b9992-858c-46e2-8969-fe5afa896126",
-        "headline": "Vikings shopping list",
-        "bodyText": "With Jordan Addison suspended three games, Rondale Moore out for the season, and Jalen Nailor week-to-week, Minnesota is exploring veteran WR trades to stabilize the position.\n\nMinnesota has already lost three of its top five receivers before Week 1, leaving Justin Jefferson as the lone established starter.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Vikings_2024_Vapor_Fuse.png",
-        "category": "NFL",
+        "id": "c4c928d7-5bae-4a5e-b6dc-0a2489188d7c",
+        "headline": "Bueckers joins elite company",
+        "bodyText": "Bueckers’ 44 points tied for the 10th-most in WNBA history, cementing her performance among the league’s most memorable scoring outbursts.\n\nThe WNBA single-game record is 53 points, set by Liz Cambage in 2018.",
+        "imageUrl": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2231220462_large_cropped.jpg?w=802",
+        "category": "WNBA",
         "duration": 5000,
         "order": 1,
         "relatedQuestionIds": [
@@ -28,11 +28,11 @@
         ]
       },
       {
-        "id": "c9bc35cf-994d-4c6a-b370-a269759bc52a",
-        "headline": "Nine times...",
-        "bodyText": "The Yankees hit nine home runs vs. the Rays, matching their nine-homer explosion back in March against the Brewers, making them the first team in MLB history with two nine-homer games in one season.\n\nOnly four teams in MLB history have ever hit nine or more homers in a game — the record is 10 by the 1987 Blue Jays.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/800px-New_York_Yankees_Primary_Logo.svg.png",
-        "category": "MLB Record",
+        "id": "15e6609c-fd36-4cc0-8453-06232f8fe2ea",
+        "headline": "Mother Tucker!",
+        "bodyText": "Tucker’s contract expires after the 2025 season, meaning his performance down the stretch could impact both his market value and the Cubs’ willingness to keep him.\n\nTucker still started the All-Star Game in 2025, his fourth career selection and his first as a starter. He missed time in 2024 with a shin fracture but has otherwise been one of MLB’s most durable outfielders.",
+        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/34967.png&w=350&h=254",
+        "category": "Cubbies",
         "duration": 5000,
         "order": 2,
         "relatedQuestionIds": [
@@ -40,11 +40,11 @@
         ]
       },
       {
-        "id": "8c7b3fcc-3e87-4bc2-8cb9-d196df2c10e9",
-        "headline": "Bad Blood",
-        "bodyText": "New York and Minnesota split their 2025 regular-season series 3–1 in favor of the Lynx, after the Liberty beat them in the 2024 Finals to win their first title.\n\nIonescu buried a clutch 3-pointer with seconds left in last night's game, recalling her Game 3 dagger in the 2024 Finals. After the shot, Ionescu smiled and said “Night, night,” sending the home crowd into a frenzy.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/WNBA_logo.svg/1920px-WNBA_logo.svg.png",
-        "category": "WNBA",
+        "id": "fe2e82ea-782a-4d3e-8488-a959e6874c42",
+        "headline": "Get him bubble wrapped!",
+        "bodyText": "Jackson was accidentally stepped on and knocked to the ground during practice, but remained on the field briefly before heading inside early with trainers.\n\nThe Ravens haven’t played Jackson in a preseason game in 4 years to reduce injury risk. His brash, running style of play can lead to injuries. ",
+        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916387.png&w=350&h=254",
+        "category": "NFL",
         "duration": 5000,
         "order": 3,
         "relatedQuestionIds": [
@@ -52,10 +52,10 @@
         ]
       },
       {
-        "id": "3d622fcc-cda6-4a38-820d-b7cd93e5a9c8",
-        "headline": "Wait, what? The Jays are first?",
-        "bodyText": "Scherzer went six innings, allowing just one run on four hits, and has now thrown at least six innings in five straight starts.\n\nScherzer is 4–2 with Toronto this season, part of the reason the Jays sit atop the AL East. ",
-        "imageUrl": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/51/5518f619-c603-504d-b601-d75c9bf30caa/686ae35a0e693.image.jpg?resize=1200%2C797",
+        "id": "40e75162-066a-4e64-b266-70d7095cd68d",
+        "headline": "Rox Rock Shohei",
+        "bodyText": "Even before the Rockies loss, Ohtani had been limited — he has not thrown more than 4⅓ innings or 80 pitches in any start this season.\t\n\nOhtani missed the entire 2024 season recovering from elbow surgery, making 2025 his comeback year on the mound.",
+        "imageUrl": "https://dims.apnews.com/dims4/default/a94cf5b/2147483647/strip/true/crop/6000x4000+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2F71%2F7d187eec8d5958f4b6feeebacbf2%2Fbbab71c25f9c4b288993b473a37bd1a9",
         "category": "MLB",
         "duration": 5000,
         "order": 4,
@@ -64,11 +64,11 @@
         ]
       },
       {
-        "id": "7d80b390-8072-494e-a644-0ff7707a3787",
-        "headline": "An arsenal of talent",
-        "bodyText": "U21 players can save clubs millions in transfer fees by stepping straight into senior squads, improving performance while boosting homegrown quotas.\n\nArsenal’s Hale End academy has produced talents like Bukayo Saka, Emile Smith Rowe, and now Max Dowman — all crucial as “free” stars from the club’s system.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1920px-Premier_League_Logo.svg.png",
-        "category": "Premier League",
+        "id": "bba2b8a2-4c24-4107-a0d2-47f1882103a1",
+        "headline": "Messi, messy",
+        "bodyText": "Messi felt hamstring discomfort in his 45-minute return vs. LA Galaxy, missed training, and was ruled out of the Tigres match.\n\nMessi had to leave Miami’s earlier Leagues Cup game vs. Necaxa after just 11 minutes with the same injury.",
+        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1179,h_663,x_332,y_86/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2Fsi%2F01k34x1tqhp0jgk8en0s.jpg",
+        "category": "Messi",
         "duration": 5000,
         "order": 5,
         "relatedQuestionIds": [
@@ -76,11 +76,11 @@
         ]
       },
       {
-        "id": "a96bfe9c-8eab-4213-9440-e416bb36994e",
-        "headline": "The wait is OVER",
-        "bodyText": "The Wildcats and Cyclones will meet Aug. 23 in Dublin, a neutral-site showcase. They are the only Power 5 teams squaring off in Week 0, with both offenses poised to exploit the other’s defensive weaknesses.\n\nThe rivalry has been played annually since 1917 — this will be its first international edition.",
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c338212f79392a6870f4530/9fa07a41-1191-476c-95ca-4c1b0649d250/CFB+Map+Final.png?format=2500w",
-        "category": "NCAAF",
+        "id": "0c6d8041-d1eb-45f6-b91a-833d708050aa",
+        "headline": "KC SF Trade",
+        "bodyText": "The 49ers’ WR room is depleted with Aiyuk, Robinson, Watkins, and Cowing all uncertain for Week 1, and Jauan Jennings also nursing a calf injury.\n\nMoore just returned a punt 88 yards for a touchdown in Kansas City’s preseason game vs. Seattle.",
+        "imageUrl": "https://www.mlive.com/resizer/v2/VX3FYKHQ3JGBHHLT53EOMNCORM.jpg?auth=43594495553203a5da1248e6cc05f12bf46e9013ad11656bb69a878fb1f75b30&width=1280&quality=90",
+        "category": "NFL",
         "duration": 5000,
         "order": 6,
         "relatedQuestionIds": [
@@ -91,212 +91,212 @@
     "questions": [
       {
         "id": "q1",
-        "question": "Why might the Vikings be active buyers at the roster cutdown deadline, according to reports?",
-        "tag": "NFL",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Vikings_2024_Vapor_Fuse.png",
-        "options": [
-          {
-            "letter": "A",
-            "text": "Their defense lacks depth",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "They have multiple wide receiver absences",
-            "isCorrect": true
-          },
-          {
-            "letter": "C",
-            "text": "They need a new kicker",
-            "isCorrect": false
-          },
-          {
-            "letter": "D",
-            "text": "Their offensive line is injured",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "B",
-        "backstory": "With Jordan Addison suspended three games, Rondale Moore out for the season, and Jalen Nailor week-to-week, Minnesota is exploring veteran WR trades to stabilize the position.",
-        "funFact": "Minnesota has already lost three of its top five receivers before Week 1, leaving Justin Jefferson as the lone established starter.",
-        "order": 1
-      },
-      {
-        "id": "q2",
-        "question": "In their 13–3 win last night over the Rays, the Yankees became the first MLB team ever to do what in a single season?",
-        "tag": "MLB Record",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/800px-New_York_Yankees_Primary_Logo.svg.png",
-        "options": [
-          {
-            "letter": "A",
-            "text": "Hit 100 home runs by August",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "Have multiple nine-homer games",
-            "isCorrect": true
-          },
-          {
-            "letter": "C",
-            "text": "Go back-to-back-to-back twice in one game",
-            "isCorrect": false
-          },
-          {
-            "letter": "D",
-            "text": "Score 20+ runs five times",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "B",
-        "backstory": "The Yankees hit nine home runs vs. the Rays, matching their nine-homer explosion back in March against the Brewers, making them the first team in MLB history with two nine-homer games in one season.",
-        "funFact": "Only four teams in MLB history have ever hit nine or more homers in a game — the record is 10 by the 1987 Blue Jays.",
-        "order": 2
-      },
-      {
-        "id": "q3",
-        "question": "Which two WNBA teams, who met in the 2024 Finals, played four games in a 20-day span during the 2025 season, cementing their status as the league’s best rivalry?",
+        "question": "Paige Bueckers’ 44-point game last night against the Sparks tied for what spot on the WNBA’s all-time single-game scoring list?",
         "tag": "WNBA",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/WNBA_logo.svg/1920px-WNBA_logo.svg.png",
+        "imageUrl": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2231220462_large_cropped.jpg?w=802",
         "options": [
           {
             "letter": "A",
-            "text": "Aces & Sun",
+            "text": "5th",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Lynx & Liberty",
-            "isCorrect": true
-          },
-          {
-            "letter": "C",
-            "text": "Storm & Mercury",
-            "isCorrect": false
-          },
-          {
-            "letter": "D",
-            "text": "Wings & Sky",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "B",
-        "backstory": "New York and Minnesota split their 2025 regular-season series 3–1 in favor of the Lynx, after the Liberty beat them in the 2024 Finals to win their first title.",
-        "funFact": "Ionescu buried a clutch 3-pointer with seconds left in last night's game, recalling her Game 3 dagger in the 2024 Finals. After the shot, Ionescu smiled and said “Night, night,” sending the home crowd into a frenzy.",
-        "order": 3
-      },
-      {
-        "id": "q4",
-        "question": "Which veteran pitcher earned his 220th career win by throwing six innings in the Blue Jays’ 7–3 victory over the Pirates last night?",
-        "tag": "MLB",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/51/5518f619-c603-504d-b601-d75c9bf30caa/686ae35a0e693.image.jpg?resize=1200%2C797",
-        "options": [
-          {
-            "letter": "A",
-            "text": "Justin Verlander",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "Max Scherzer",
-            "isCorrect": true
-          },
-          {
-            "letter": "C",
-            "text": "Kevin Gausman",
-            "isCorrect": false
-          },
-          {
-            "letter": "D",
-            "text": "Chris Bassitt",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "B",
-        "backstory": "Scherzer went six innings, allowing just one run on four hits, and has now thrown at least six innings in five straight starts.",
-        "funFact": "Scherzer is 4–2 with Toronto this season, part of the reason the Jays sit atop the AL East. ",
-        "order": 4
-      },
-      {
-        "id": "q5",
-        "question": "Why can breakout U21 stars like Max Dowman (Arsenal) or Rio Ngumoha (Liverpool) have a massive impact on their clubs?",
-        "tag": "Premier League",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1920px-Premier_League_Logo.svg.png",
-        "options": [
-          {
-            "letter": "A",
-            "text": "They count as free agents",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "They don’t require work permits",
+            "text": "8th",
             "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "They’re homegrown, cheap talent that can become first-team regulars",
+            "text": "10th",
             "isCorrect": true
           },
           {
             "letter": "D",
-            "text": "They’re always loaned abroad",
+            "text": "12th",
             "isCorrect": false
           }
         ],
         "correctAnswer": "C",
-        "backstory": "U21 players can save clubs millions in transfer fees by stepping straight into senior squads, improving performance while boosting homegrown quotas.",
-        "funFact": "Arsenal’s Hale End academy has produced talents like Bukayo Saka, Emile Smith Rowe, and now Max Dowman — all crucial as “free” stars from the club’s system.",
-        "order": 5
+        "backstory": "Bueckers’ 44 points tied for the 10th-most in WNBA history, cementing her performance among the league’s most memorable scoring outbursts.",
+        "funFact": "The WNBA single-game record is 53 points, set by Liz Cambage in 2018.",
+        "order": 1
       },
       {
-        "id": "q6",
-        "question": "Which Week 0 matchup (THIS WEEKEND), nicknamed “Farmageddon,” will be played in Dublin, Ireland to open the 2025 college football season?",
-        "tag": "NCAAF",
+        "id": "q2",
+        "question": "Why does Kyle Tucker’s absence from the lineup and hitting slump carry extra weight for both him and the Cubs beyond just 2025 postseason hopes?",
+        "tag": "Cubbies",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c338212f79392a6870f4530/9fa07a41-1191-476c-95ca-4c1b0649d250/CFB+Map+Final.png?format=2500w",
+        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/34967.png&w=350&h=254",
         "options": [
           {
             "letter": "A",
-            "text": "Kansas State vs. Iowa State",
-            "isCorrect": true
+            "text": "He’s switching positions next year",
+            "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Fresno State vs. Kansas",
+            "text": "He’s playing on a rookie deal",
             "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "Stanford vs. Hawaii",
+            "text": "He becomes a free agent at season’s end",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "He’s considering retirement",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "backstory": "Tucker’s contract expires after the 2025 season, meaning his performance down the stretch could impact both his market value and the Cubs’ willingness to keep him.",
+        "funFact": "Tucker still started the All-Star Game in 2025, his fourth career selection and his first as a starter. He missed time in 2024 with a shin fracture but has otherwise been one of MLB’s most durable outfielders.",
+        "order": 2
+      },
+      {
+        "id": "q3",
+        "question": "What minor incident briefly caused concern at Ravens practice yesterday before Lamar Jackson was cleared as fine?",
+        "tag": "NFL",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916387.png&w=350&h=254",
+        "options": [
+          {
+            "letter": "A",
+            "text": "He twisted his ankle",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "He was stepped on during a play",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "He collided with a coach",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "North Carolina Central vs. Southern",
+            "text": "He hyperextended his knee",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "A",
-        "backstory": "The Wildcats and Cyclones will meet Aug. 23 in Dublin, a neutral-site showcase. They are the only Power 5 teams squaring off in Week 0, with both offenses poised to exploit the other’s defensive weaknesses.",
-        "funFact": "The rivalry has been played annually since 1917 — this will be its first international edition.",
+        "correctAnswer": "B",
+        "backstory": "Jackson was accidentally stepped on and knocked to the ground during practice, but remained on the field briefly before heading inside early with trainers.",
+        "funFact": "The Ravens haven’t played Jackson in a preseason game in 4 years to reduce injury risk. His brash, running style of play can lead to injuries. ",
+        "order": 3
+      },
+      {
+        "id": "q4",
+        "question": "The Rockies tagged Shohei Ohtani last night for 5 runs on 9 hits in his first career start at Coors Field. In 10 pitching starts this season, what is the longest Shohei Ohtani has gone in terms of innings or pitch count?",
+        "tag": "MLB",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://dims.apnews.com/dims4/default/a94cf5b/2147483647/strip/true/crop/6000x4000+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2F71%2F7d187eec8d5958f4b6feeebacbf2%2Fbbab71c25f9c4b288993b473a37bd1a9",
+        "options": [
+          {
+            "letter": "A",
+            "text": "5 innings / 95 pitches\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "6 innings / 100 pitches",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "4 innings / 80 pitches",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Complete game / 120 pitches",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "backstory": "Even before the Rockies loss, Ohtani had been limited — he has not thrown more than 4⅓ innings or 80 pitches in any start this season.\t",
+        "funFact": "Ohtani missed the entire 2024 season recovering from elbow surgery, making 2025 his comeback year on the mound.",
+        "order": 4
+      },
+      {
+        "id": "q5",
+        "question": "Why will Lionel Messi not feature for Inter Miami in the 2025 Leagues Cup quarterfinal vs. Tigres?",
+        "tag": "Messi",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1179,h_663,x_332,y_86/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2Fsi%2F01k34x1tqhp0jgk8en0s.jpg",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Red card suspension",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Hamstring discomfort after his return",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Disciplinary reasons",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "International duty",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "backstory": "Messi felt hamstring discomfort in his 45-minute return vs. LA Galaxy, missed training, and was ruled out of the Tigres match.",
+        "funFact": "Messi had to leave Miami’s earlier Leagues Cup game vs. Necaxa after just 11 minutes with the same injury.",
+        "order": 5
+      },
+      {
+        "id": "q6",
+        "question": "The KC Chiefs traded Skyy Moore to the SF 49ers for a 2027 sixth-round pick. Why does his arrival provide immediate value for the 49ers heading into Week 1?",
+        "tag": "NFL",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://www.mlive.com/resizer/v2/VX3FYKHQ3JGBHHLT53EOMNCORM.jpg?auth=43594495553203a5da1248e6cc05f12bf46e9013ad11656bb69a878fb1f75b30&width=1280&quality=90",
+        "options": [
+          {
+            "letter": "A",
+            "text": "He’s expected to start at quarterback",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Four of San Francisco’s top six wide receivers are injured",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "He’s an All-Pro kick returner",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "He led the NFL in receptions last season",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "backstory": "The 49ers’ WR room is depleted with Aiyuk, Robinson, Watkins, and Cowing all uncertain for Week 1, and Jauan Jennings also nursing a calf injury.",
+        "funFact": "Moore just returned a punt 88 yards for a touchdown in Kansas City’s preseason game vs. Seattle.",
         "order": 6
       }
     ],
@@ -392,7 +392,7 @@
         "share"
       ],
       "customProperties": {
-        "quizTheme": "🏈-⚾️-🏀-⚾️-⚽️-🏈",
+        "quizTheme": "👸🏀-⚾️-🏈-⚾️-⚽️-🏈",
         "specialEvent": false
       }
     },
