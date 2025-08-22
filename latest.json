@@ -1,26 +1,26 @@
 {
   "dailyBlitz": {
-    "id": "2025-08-21",
-    "date": "2025-08-21T08:43",
+    "id": "2025-08-22",
+    "date": "2025-08-22T09:13",
     "version": "1.0",
     "status": "active",
-    "expiresAt": "2025-08-22T15:43:12.798Z",
+    "expiresAt": "2025-08-23T13:13:42.287Z",
     "metadata": {
-      "title": "Blitz #6",
-      "theme": "👸🏀-⚾️-🏈-⚾️-⚽️-🏈",
+      "title": "Blitz #7",
+      "theme": "TGIF 👸🏀-⚾️-🏈-⚾️-⚽️-🏈",
       "difficulty": "medium",
       "estimatedTime": 60,
       "totalPoints": 5000,
-      "questionCount": 10,
+      "questionCount": 6,
       "categories": []
     },
     "stories": [
       {
-        "id": "c4c928d7-5bae-4a5e-b6dc-0a2489188d7c",
-        "headline": "Bueckers joins elite company",
-        "bodyText": "Bueckers’ 44 points tied for the 10th-most in WNBA history, cementing her performance among the league’s most memorable scoring outbursts.\n\nThe WNBA single-game record is 53 points, set by Liz Cambage in 2018.",
-        "imageUrl": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2231220462_large_cropped.jpg?w=802",
-        "category": "WNBA",
+        "id": "e7d01d86-d25c-4fa5-bc33-7758760f545d",
+        "headline": "a",
+        "bodyText": "Jones suggested he was ready to tag Parsons in 2026 and 2027 after his rookie deal, effectively keeping him under team control for three more years.\n\nParsons responded to Jones’s comments by quoting a bible verse from the Book of Micah and wiping Cowboys mentions from his social media.",
+        "imageUrl": "https://www.texasmonthly.com/issue/october-2001/",
+        "category": "NFL",
         "duration": 5000,
         "order": 1,
         "relatedQuestionIds": [
@@ -28,11 +28,11 @@
         ]
       },
       {
-        "id": "15e6609c-fd36-4cc0-8453-06232f8fe2ea",
-        "headline": "Mother Tucker!",
-        "bodyText": "Tucker’s contract expires after the 2025 season, meaning his performance down the stretch could impact both his market value and the Cubs’ willingness to keep him.\n\nTucker still started the All-Star Game in 2025, his fourth career selection and his first as a starter. He missed time in 2024 with a shin fracture but has otherwise been one of MLB’s most durable outfielders.",
-        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/34967.png&w=350&h=254",
-        "category": "Cubbies",
+        "id": "64a7a739-a488-4c37-b602-24ab2909cd58",
+        "headline": "a",
+        "bodyText": "Quenton Marselles Brown, father of Celtics star Jaylen Brown, was arrested and charged after allegedly stabbing a man multiple times following a car incident.\t\n\nCourt documents confirmed bail was set at $300,000 following Brown’s first court appearance.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1920px-Boston_Celtics.svg.png",
+        "category": "NBA",
         "duration": 5000,
         "order": 2,
         "relatedQuestionIds": [
@@ -40,11 +40,11 @@
         ]
       },
       {
-        "id": "fe2e82ea-782a-4d3e-8488-a959e6874c42",
-        "headline": "Get him bubble wrapped!",
-        "bodyText": "Jackson was accidentally stepped on and knocked to the ground during practice, but remained on the field briefly before heading inside early with trainers.\n\nThe Ravens haven’t played Jackson in a preseason game in 4 years to reduce injury risk. His brash, running style of play can lead to injuries. ",
-        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916387.png&w=350&h=254",
-        "category": "NFL",
+        "id": "72bd2e3a-ff6e-4596-ac4a-66c3d26ececc",
+        "headline": "a",
+        "bodyText": "Roughly a month after Bueckers said her dream courtside celebrity guests are Grey's Anatomy's Ellen Pompeo and Criminal Minds' Shemar Moore, Moore decided to pull up for the Wings' game vs. the Sparks in L.A.—and he picked a great night to do it. \n\n\n\n\n\nAfter the game, Moore met Bueckers in the tunnel, capping off her “best night ever.”",
+        "imageUrl": "https://www.donegaldaily.com/2013/09/26/spoiler-alert-major-irish-singer-to-play-letterkenny-pub-tonight/whos_who_mystery_man_t800x800/",
+        "category": "WNBA",
         "duration": 5000,
         "order": 3,
         "relatedQuestionIds": [
@@ -52,11 +52,11 @@
         ]
       },
       {
-        "id": "40e75162-066a-4e64-b266-70d7095cd68d",
-        "headline": "Rox Rock Shohei",
-        "bodyText": "Even before the Rockies loss, Ohtani had been limited — he has not thrown more than 4⅓ innings or 80 pitches in any start this season.\t\n\nOhtani missed the entire 2024 season recovering from elbow surgery, making 2025 his comeback year on the mound.",
-        "imageUrl": "https://dims.apnews.com/dims4/default/a94cf5b/2147483647/strip/true/crop/6000x4000+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2F71%2F7d187eec8d5958f4b6feeebacbf2%2Fbbab71c25f9c4b288993b473a37bd1a9",
-        "category": "MLB",
+        "id": "15e18678-d4f9-4dcd-89c1-dd98124c9d83",
+        "headline": "a",
+        "bodyText": "The SEC presidents and chancellors approved moving to a nine-game conference schedule, up from eight, beginning in 2026.\n\n\nCommissioner Greg Sankey said the move “underscores our universities’ commitment to delivering the most competitive football schedule in the nation.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Southeastern_Conference_logo_%282024%29.svg/1920px-Southeastern_Conference_logo_%282024%29.svg.png",
+        "category": "SEC",
         "duration": 5000,
         "order": 4,
         "relatedQuestionIds": [
@@ -64,11 +64,11 @@
         ]
       },
       {
-        "id": "bba2b8a2-4c24-4107-a0d2-47f1882103a1",
-        "headline": "Messi, messy",
-        "bodyText": "Messi felt hamstring discomfort in his 45-minute return vs. LA Galaxy, missed training, and was ruled out of the Tigres match.\n\nMessi had to leave Miami’s earlier Leagues Cup game vs. Necaxa after just 11 minutes with the same injury.",
-        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1179,h_663,x_332,y_86/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2Fsi%2F01k34x1tqhp0jgk8en0s.jpg",
-        "category": "Messi",
+        "id": "3524e8f8-9c1b-4349-a8be-89af03757674",
+        "headline": "a",
+        "bodyText": "Rookie QB Jaxson Dart impressed in preseason, but Russell Wilson has been named the starter — a setup that could spark calls for a switch if Wilson struggles.\t\n\nThe Giants open the season against the Commanders on September 7, with Wilson firmly in the starting role.",
+        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_171,w_4831,h_2717/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2F146%2F01jyf2hkbmactqceyp2k.jpg",
+        "category": "NFL",
         "duration": 5000,
         "order": 5,
         "relatedQuestionIds": [
@@ -76,11 +76,11 @@
         ]
       },
       {
-        "id": "0c6d8041-d1eb-45f6-b91a-833d708050aa",
-        "headline": "KC SF Trade",
-        "bodyText": "The 49ers’ WR room is depleted with Aiyuk, Robinson, Watkins, and Cowing all uncertain for Week 1, and Jauan Jennings also nursing a calf injury.\n\nMoore just returned a punt 88 yards for a touchdown in Kansas City’s preseason game vs. Seattle.",
-        "imageUrl": "https://www.mlive.com/resizer/v2/VX3FYKHQ3JGBHHLT53EOMNCORM.jpg?auth=43594495553203a5da1248e6cc05f12bf46e9013ad11656bb69a878fb1f75b30&width=1280&quality=90",
-        "category": "NFL",
+        "id": "95be37cc-4df7-4693-a52e-ae45ad1a3f9e",
+        "headline": "a",
+        "bodyText": "The first 18,000 fans received a bobblehead of George Costanza, played by Jason Alexander, depicted napping under his desk from the Season 8 episode “The Nap.”\t\n\nIn the episode, Costanza actually hires a handyman to expand the space under his desk for naps, complete with a cupholder and blanket drawer.\nWhat quote from “The Nap”",
+        "imageUrl": "https://store.bobbleheadhall.com/cdn/shop/files/Product_21_1024x1024.png?v=1743089374",
+        "category": "MLB",
         "duration": 5000,
         "order": 6,
         "relatedQuestionIds": [
@@ -91,212 +91,212 @@
     "questions": [
       {
         "id": "q1",
-        "question": "Paige Bueckers’ 44-point game last night against the Sparks tied for what spot on the WNBA’s all-time single-game scoring list?",
-        "tag": "WNBA",
+        "question": "What 'scorched earth' move did Jerry Jones imply he was prepared to use on Parsons if no deal is reached after 2025?",
+        "tag": "NFL",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2231220462_large_cropped.jpg?w=802",
+        "imageUrl": "https://www.texasmonthly.com/issue/october-2001/",
         "options": [
           {
             "letter": "A",
-            "text": "5th",
+            "text": "Suspend him",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "8th",
-            "isCorrect": false
-          },
-          {
-            "letter": "C",
-            "text": "10th",
+            "text": "Franchise tag him",
             "isCorrect": true
           },
           {
+            "letter": "C",
+            "text": "Bench him",
+            "isCorrect": false
+          },
+          {
             "letter": "D",
-            "text": "12th",
+            "text": "Trade him immediately",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "C",
-        "backstory": "Bueckers’ 44 points tied for the 10th-most in WNBA history, cementing her performance among the league’s most memorable scoring outbursts.",
-        "funFact": "The WNBA single-game record is 53 points, set by Liz Cambage in 2018.",
+        "correctAnswer": "B",
+        "backstory": "Jones suggested he was ready to tag Parsons in 2026 and 2027 after his rookie deal, effectively keeping him under team control for three more years.",
+        "funFact": "Parsons responded to Jones’s comments by quoting a bible verse from the Book of Micah and wiping Cowboys mentions from his social media.",
         "order": 1
       },
       {
         "id": "q2",
-        "question": "Why does Kyle Tucker’s absence from the lineup and hitting slump carry extra weight for both him and the Cubs beyond just 2025 postseason hopes?",
-        "tag": "Cubbies",
+        "question": "Which Boston Celtics legend's dad was recently charged with attempted murder in Las Vegas after a parking lot altercation that began with a minor car ding?\t",
+        "tag": "NBA",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/34967.png&w=350&h=254",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1920px-Boston_Celtics.svg.png",
         "options": [
           {
             "letter": "A",
-            "text": "He’s switching positions next year",
+            "text": "Father of Jayson Tatum",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "He’s playing on a rookie deal",
-            "isCorrect": false
-          },
-          {
-            "letter": "C",
-            "text": "He becomes a free agent at season’s end",
+            "text": "Father of Jaylen Brow",
             "isCorrect": true
           },
           {
+            "letter": "C",
+            "text": "Father of Marcus Smart",
+            "isCorrect": false
+          },
+          {
             "letter": "D",
-            "text": "He’s considering retirement",
+            "text": "Father of Al Horford",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "C",
-        "backstory": "Tucker’s contract expires after the 2025 season, meaning his performance down the stretch could impact both his market value and the Cubs’ willingness to keep him.",
-        "funFact": "Tucker still started the All-Star Game in 2025, his fourth career selection and his first as a starter. He missed time in 2024 with a shin fracture but has otherwise been one of MLB’s most durable outfielders.",
+        "correctAnswer": "B",
+        "backstory": "Quenton Marselles Brown, father of Celtics star Jaylen Brown, was arrested and charged after allegedly stabbing a man multiple times following a car incident.\t",
+        "funFact": "Court documents confirmed bail was set at $300,000 following Brown’s first court appearance.",
         "order": 2
       },
       {
         "id": "q3",
-        "question": "What minor incident briefly caused concern at Ravens practice yesterday before Lamar Jackson was cleared as fine?",
-        "tag": "NFL",
+        "question": "Which celebrity — one of Paige Bueckers’ “dream courtside guests” — attended her 44-point breakout game against the Sparks in Los Angeles?",
+        "tag": "WNBA",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916387.png&w=350&h=254",
+        "imageUrl": "https://www.donegaldaily.com/2013/09/26/spoiler-alert-major-irish-singer-to-play-letterkenny-pub-tonight/whos_who_mystery_man_t800x800/",
         "options": [
           {
             "letter": "A",
-            "text": "He twisted his ankle",
+            "text": "Ellen Pompeo",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "He was stepped on during a play",
+            "text": "Shemar Moore",
             "isCorrect": true
           },
           {
             "letter": "C",
-            "text": "He collided with a coach",
+            "text": "Zendaya",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "He hyperextended his knee",
+            "text": "Michael B. Jordan",
             "isCorrect": false
           }
         ],
         "correctAnswer": "B",
-        "backstory": "Jackson was accidentally stepped on and knocked to the ground during practice, but remained on the field briefly before heading inside early with trainers.",
-        "funFact": "The Ravens haven’t played Jackson in a preseason game in 4 years to reduce injury risk. His brash, running style of play can lead to injuries. ",
+        "backstory": "Roughly a month after Bueckers said her dream courtside celebrity guests are Grey's Anatomy's Ellen Pompeo and Criminal Minds' Shemar Moore, Moore decided to pull up for the Wings' game vs. the Sparks in L.A.—and he picked a great night to do it. \n\n\n\n",
+        "funFact": "After the game, Moore met Bueckers in the tunnel, capping off her “best night ever.”",
         "order": 3
       },
       {
         "id": "q4",
-        "question": "The Rockies tagged Shohei Ohtani last night for 5 runs on 9 hits in his first career start at Coors Field. In 10 pitching starts this season, what is the longest Shohei Ohtani has gone in terms of innings or pitch count?",
-        "tag": "MLB",
+        "question": "Starting in 2026, how many conference games will SEC teams play each season under the league’s new format?",
+        "tag": "SEC",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://dims.apnews.com/dims4/default/a94cf5b/2147483647/strip/true/crop/6000x4000+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2F71%2F7d187eec8d5958f4b6feeebacbf2%2Fbbab71c25f9c4b288993b473a37bd1a9",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Southeastern_Conference_logo_%282024%29.svg/1920px-Southeastern_Conference_logo_%282024%29.svg.png",
         "options": [
           {
             "letter": "A",
-            "text": "5 innings / 95 pitches\t",
+            "text": "Eight ",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "6 innings / 100 pitches",
-            "isCorrect": false
-          },
-          {
-            "letter": "C",
-            "text": "4 innings / 80 pitches",
+            "text": "Nine ",
             "isCorrect": true
           },
           {
+            "letter": "C",
+            "text": "Ten ",
+            "isCorrect": false
+          },
+          {
             "letter": "D",
-            "text": "Complete game / 120 pitches",
+            "text": "Eleven",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "C",
-        "backstory": "Even before the Rockies loss, Ohtani had been limited — he has not thrown more than 4⅓ innings or 80 pitches in any start this season.\t",
-        "funFact": "Ohtani missed the entire 2024 season recovering from elbow surgery, making 2025 his comeback year on the mound.",
+        "correctAnswer": "B",
+        "backstory": "The SEC presidents and chancellors approved moving to a nine-game conference schedule, up from eight, beginning in 2026.\n",
+        "funFact": "Commissioner Greg Sankey said the move “underscores our universities’ commitment to delivering the most competitive football schedule in the nation.",
         "order": 4
       },
       {
         "id": "q5",
-        "question": "Why will Lionel Messi not feature for Inter Miami in the 2025 Leagues Cup quarterfinal vs. Tigres?",
-        "tag": "Messi",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1179,h_663,x_332,y_86/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2Fsi%2F01k34x1tqhp0jgk8en0s.jpg",
-        "options": [
-          {
-            "letter": "A",
-            "text": "Red card suspension",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "Hamstring discomfort after his return",
-            "isCorrect": true
-          },
-          {
-            "letter": "C",
-            "text": "Disciplinary reasons",
-            "isCorrect": false
-          },
-          {
-            "letter": "D",
-            "text": "International duty",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "B",
-        "backstory": "Messi felt hamstring discomfort in his 45-minute return vs. LA Galaxy, missed training, and was ruled out of the Tigres match.",
-        "funFact": "Messi had to leave Miami’s earlier Leagues Cup game vs. Necaxa after just 11 minutes with the same injury.",
-        "order": 5
-      },
-      {
-        "id": "q6",
-        "question": "The KC Chiefs traded Skyy Moore to the SF 49ers for a 2027 sixth-round pick. Why does his arrival provide immediate value for the 49ers heading into Week 1?",
+        "question": "Why is there already talk of a potential quarterback controversy with the Giants heading into 2025?\t",
         "tag": "NFL",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://www.mlive.com/resizer/v2/VX3FYKHQ3JGBHHLT53EOMNCORM.jpg?auth=43594495553203a5da1248e6cc05f12bf46e9013ad11656bb69a878fb1f75b30&width=1280&quality=90",
+        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_171,w_4831,h_2717/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2F146%2F01jyf2hkbmactqceyp2k.jpg",
         "options": [
           {
             "letter": "A",
-            "text": "He’s expected to start at quarterback",
+            "text": "Russell Wilson is injured\t",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Four of San Francisco’s top six wide receivers are injured",
+            "text": "Jaxson Dart played well in preseason while Wilson is the starter",
             "isCorrect": true
           },
           {
             "letter": "C",
-            "text": "He’s an All-Pro kick returner",
+            "text": "The Giants have no clear starter named\t",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "He led the NFL in receptions last season",
+            "text": "Daniel Jones is still on the roster",
             "isCorrect": false
           }
         ],
         "correctAnswer": "B",
-        "backstory": "The 49ers’ WR room is depleted with Aiyuk, Robinson, Watkins, and Cowing all uncertain for Week 1, and Jauan Jennings also nursing a calf injury.",
-        "funFact": "Moore just returned a punt 88 yards for a touchdown in Kansas City’s preseason game vs. Seattle.",
+        "backstory": "Rookie QB Jaxson Dart impressed in preseason, but Russell Wilson has been named the starter — a setup that could spark calls for a switch if Wilson struggles.\t",
+        "funFact": "The Giants open the season against the Commanders on September 7, with Wilson firmly in the starting role.",
+        "order": 5
+      },
+      {
+        "id": "q6",
+        "question": "Which sitcom character did the Yankees honor with a bobblehead giveaway at Yankee Stadium against the Red Sox?\t",
+        "tag": "MLB",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://store.bobbleheadhall.com/cdn/shop/files/Product_21_1024x1024.png?v=1743089374",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Jerry Seinfeld\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Cosmo Kramer\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "George Costanza\t",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Newman",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "backstory": "The first 18,000 fans received a bobblehead of George Costanza, played by Jason Alexander, depicted napping under his desk from the Season 8 episode “The Nap.”\t",
+        "funFact": "In the episode, Costanza actually hires a handyman to expand the space under his desk for naps, complete with a cupholder and blanket drawer.\nWhat quote from “The Nap”",
         "order": 6
       }
     ],
@@ -392,7 +392,7 @@
         "share"
       ],
       "customProperties": {
-        "quizTheme": "👸🏀-⚾️-🏈-⚾️-⚽️-🏈",
+        "quizTheme": "TGIF 👸🏀-⚾️-🏈-⚾️-⚽️-🏈",
         "specialEvent": false
       }
     },
