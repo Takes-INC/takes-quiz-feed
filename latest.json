@@ -1,13 +1,13 @@
 {
   "dailyBlitz": {
-    "id": "2025-08-22",
-    "date": "2025-08-22T09:13",
+    "id": "2025-08-23",
+    "date": "2025-08-23T09:54",
     "version": "1.0",
     "status": "active",
-    "expiresAt": "2025-08-23T13:13:42.287Z",
+    "expiresAt": "2025-08-24T13:54:15.087Z",
     "metadata": {
-      "title": "Blitz #7",
-      "theme": "TGIF 👸🏀-⚾️-🏈-⚾️-⚽️-🏈",
+      "title": "Blitz #8",
+      "theme": "Weekly RECAP",
       "difficulty": "medium",
       "estimatedTime": 60,
       "totalPoints": 5000,
@@ -16,11 +16,11 @@
     },
     "stories": [
       {
-        "id": "e7d01d86-d25c-4fa5-bc33-7758760f545d",
-        "headline": "a",
-        "bodyText": "Jones suggested he was ready to tag Parsons in 2026 and 2027 after his rookie deal, effectively keeping him under team control for three more years.\n\nParsons responded to Jones’s comments by quoting a bible verse from the Book of Micah and wiping Cowboys mentions from his social media.",
-        "imageUrl": "https://www.texasmonthly.com/issue/october-2001/",
-        "category": "NFL",
+        "id": "7c38f64e-7452-4d3b-b449-ef7e70b90c46",
+        "headline": "Robot feats",
+        "bodyText": "The fastest 100-meter dash was 33.71 seconds — impressive for a hunk of wires, but still over 3x SLOWER than Usain Bolt’s human record.\n\nThe robots ran so awkwardly that some looked like your uncle jogging back to the car because he left the lights on",
+        "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/18/USAT/85703920007-2230676684.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp",
+        "category": "Olympiad",
         "duration": 5000,
         "order": 1,
         "relatedQuestionIds": [
@@ -28,11 +28,11 @@
         ]
       },
       {
-        "id": "64a7a739-a488-4c37-b602-24ab2909cd58",
-        "headline": "a",
-        "bodyText": "Quenton Marselles Brown, father of Celtics star Jaylen Brown, was arrested and charged after allegedly stabbing a man multiple times following a car incident.\t\n\nCourt documents confirmed bail was set at $300,000 following Brown’s first court appearance.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1920px-Boston_Celtics.svg.png",
-        "category": "NBA",
+        "id": "7868a4c0-3c9b-4ee3-9ed0-b6cafdd789c5",
+        "headline": "Statue for the Bird",
+        "bodyText": "Bird said her first career WNBA points and her final points 20 years later were both layups, making the pose deeply meaningful.\n\nThe statue also depicts her wearing Nike Air Zoom Huarache sneakers, the same model she wore during the Storm’s first championship and her first Olympic gold medal in 2004.",
+        "imageUrl": "https://en.wikipedia.org/wiki/File:WNBA_Sue_Bird_cropped.jpg",
+        "category": "WNBA",
         "duration": 5000,
         "order": 2,
         "relatedQuestionIds": [
@@ -40,11 +40,11 @@
         ]
       },
       {
-        "id": "72bd2e3a-ff6e-4596-ac4a-66c3d26ececc",
-        "headline": "a",
-        "bodyText": "Roughly a month after Bueckers said her dream courtside celebrity guests are Grey's Anatomy's Ellen Pompeo and Criminal Minds' Shemar Moore, Moore decided to pull up for the Wings' game vs. the Sparks in L.A.—and he picked a great night to do it. \n\n\n\n\n\nAfter the game, Moore met Bueckers in the tunnel, capping off her “best night ever.”",
-        "imageUrl": "https://www.donegaldaily.com/2013/09/26/spoiler-alert-major-irish-singer-to-play-letterkenny-pub-tonight/whos_who_mystery_man_t800x800/",
-        "category": "WNBA",
+        "id": "efde448d-d6b5-4df7-86e1-d1a01d1c37f9",
+        "headline": "NINE times",
+        "bodyText": "The Yankees hit nine home runs vs. the Rays, matching their nine-homer explosion back in March against the Brewers, making them the first team in MLB history with two nine-homer games in one season.\n\nOnly four teams in MLB history have ever hit nine or more homers in a game — the record is 10 by the 1987 Blue Jays.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/800px-New_York_Yankees_Primary_Logo.svg.png",
+        "category": "MLB",
         "duration": 5000,
         "order": 3,
         "relatedQuestionIds": [
@@ -52,11 +52,11 @@
         ]
       },
       {
-        "id": "15e18678-d4f9-4dcd-89c1-dd98124c9d83",
-        "headline": "a",
-        "bodyText": "The SEC presidents and chancellors approved moving to a nine-game conference schedule, up from eight, beginning in 2026.\n\n\nCommissioner Greg Sankey said the move “underscores our universities’ commitment to delivering the most competitive football schedule in the nation.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Southeastern_Conference_logo_%282024%29.svg/1920px-Southeastern_Conference_logo_%282024%29.svg.png",
-        "category": "SEC",
+        "id": "6388a630-afc3-418c-b35f-d4142c40bb5e",
+        "headline": "Bookmark this Page",
+        "bodyText": "Bueckers’ 44 points tied for the 10th-most in WNBA history, cementing her performance among the league’s most memorable scoring outbursts.\n\nThe WNBA single-game record is 53 points, set by Liz Cambage in 2018.",
+        "imageUrl": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2231220462_large_cropped.jpg?w=802",
+        "category": "",
         "duration": 5000,
         "order": 4,
         "relatedQuestionIds": [
@@ -64,11 +64,11 @@
         ]
       },
       {
-        "id": "3524e8f8-9c1b-4349-a8be-89af03757674",
-        "headline": "a",
-        "bodyText": "Rookie QB Jaxson Dart impressed in preseason, but Russell Wilson has been named the starter — a setup that could spark calls for a switch if Wilson struggles.\t\n\nThe Giants open the season against the Commanders on September 7, with Wilson firmly in the starting role.",
-        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_171,w_4831,h_2717/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2F146%2F01jyf2hkbmactqceyp2k.jpg",
-        "category": "NFL",
+        "id": "07461c86-e02d-468c-90d1-149e9cea9c3a",
+        "headline": "Rox rock Shohei",
+        "bodyText": "Even before the Rockies loss, Ohtani had been limited — he has not thrown more than 4⅓ innings or 80 pitches in any start this season.\n\nOhtani missed the entire 2024 season recovering from elbow surgery, making 2025 his comeback year on the mound.",
+        "imageUrl": "https://dims.apnews.com/dims4/default/a94cf5b/2147483647/strip/true/crop/6000x4000+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2F71%2F7d187eec8d5958f4b6feeebacbf2%2Fbbab71c25f9c4b288993b473a37bd1a9",
+        "category": "MLB",
         "duration": 5000,
         "order": 5,
         "relatedQuestionIds": [
@@ -76,11 +76,11 @@
         ]
       },
       {
-        "id": "95be37cc-4df7-4693-a52e-ae45ad1a3f9e",
-        "headline": "a",
-        "bodyText": "The first 18,000 fans received a bobblehead of George Costanza, played by Jason Alexander, depicted napping under his desk from the Season 8 episode “The Nap.”\t\n\nIn the episode, Costanza actually hires a handyman to expand the space under his desk for naps, complete with a cupholder and blanket drawer.\nWhat quote from “The Nap”",
-        "imageUrl": "https://store.bobbleheadhall.com/cdn/shop/files/Product_21_1024x1024.png?v=1743089374",
-        "category": "MLB",
+        "id": "bd55dad0-8fac-4db0-9161-bf93babd8d16",
+        "headline": "Celeb sighting!",
+        "bodyText": "Roughly a month after Bueckers said her dream courtside celebrity guests are Grey's Anatomy's Ellen Pompeo and Criminal Minds' Shemar Moore, Moore decided to pull up for the Wings' game vs. the Sparks in L.A.—and he picked a great night to do it.\n\nAfter the game, Moore met Bueckers in the tunnel, capping off her “best night ever.",
+        "imageUrl": "https://www.donegaldaily.com/2013/09/26/spoiler-alert-major-irish-singer-to-play-letterkenny-pub-tonight/whos_who_mystery_man_t800x800/",
+        "category": "WNBA",
         "duration": 5000,
         "order": 6,
         "relatedQuestionIds": [
@@ -91,76 +91,181 @@
     "questions": [
       {
         "id": "q1",
-        "question": "What 'scorched earth' move did Jerry Jones imply he was prepared to use on Parsons if no deal is reached after 2025?",
-        "tag": "NFL",
+        "question": "At China’s first “Robot Olympics,” what blazing 100-meter dash time did Unitree’s humanoid sprinter clock in at?",
+        "tag": "Olympiad",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://www.texasmonthly.com/issue/october-2001/",
+        "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/18/USAT/85703920007-2230676684.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp",
         "options": [
           {
             "letter": "A",
-            "text": "Suspend him",
+            "text": "1 minute flat",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Franchise tag him",
+            "text": "33.71 seconds",
             "isCorrect": true
           },
           {
             "letter": "C",
-            "text": "Bench him",
+            "text": "15.5 seconds",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "Trade him immediately",
+            "text": "9.58 seconds",
             "isCorrect": false
           }
         ],
         "correctAnswer": "B",
-        "backstory": "Jones suggested he was ready to tag Parsons in 2026 and 2027 after his rookie deal, effectively keeping him under team control for three more years.",
-        "funFact": "Parsons responded to Jones’s comments by quoting a bible verse from the Book of Micah and wiping Cowboys mentions from his social media.",
+        "backstory": "The fastest 100-meter dash was 33.71 seconds — impressive for a hunk of wires, but still over 3x SLOWER than Usain Bolt’s human record.",
+        "funFact": "The robots ran so awkwardly that some looked like your uncle jogging back to the car because he left the lights on",
         "order": 1
       },
       {
         "id": "q2",
-        "question": "Which Boston Celtics legend's dad was recently charged with attempted murder in Las Vegas after a parking lot altercation that began with a minor car ding?\t",
-        "tag": "NBA",
+        "question": "Sue Bird is the first WNBA player honored with a statue outside her team’s arena. What symbolic detail did she choose for her statue’s pose?\n \n       ",
+        "tag": "WNBA",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1920px-Boston_Celtics.svg.png",
+        "imageUrl": "https://en.wikipedia.org/wiki/File:WNBA_Sue_Bird_cropped.jpg",
         "options": [
           {
             "letter": "A",
-            "text": "Father of Jayson Tatum",
+            "text": "A three-pointer",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Father of Jaylen Brow",
+            "text": "A layup",
             "isCorrect": true
           },
           {
             "letter": "C",
-            "text": "Father of Marcus Smart",
+            "text": "A no-look pass",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "Father of Al Horford",
+            "text": "A pull-up jumper",
             "isCorrect": false
           }
         ],
         "correctAnswer": "B",
-        "backstory": "Quenton Marselles Brown, father of Celtics star Jaylen Brown, was arrested and charged after allegedly stabbing a man multiple times following a car incident.\t",
-        "funFact": "Court documents confirmed bail was set at $300,000 following Brown’s first court appearance.",
+        "backstory": "Bird said her first career WNBA points and her final points 20 years later were both layups, making the pose deeply meaningful.",
+        "funFact": "The statue also depicts her wearing Nike Air Zoom Huarache sneakers, the same model she wore during the Storm’s first championship and her first Olympic gold medal in 2004.",
         "order": 2
       },
       {
         "id": "q3",
+        "question": "In their 13–3 win this week over the Rays, the Yankees became the first MLB team ever to do what in a single season?",
+        "tag": "MLB",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/800px-New_York_Yankees_Primary_Logo.svg.png",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Score 20+ runs five times",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Go back-to-back-to-back twice in one game",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Have multiple nine-homer games",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Hit 100 home runs by August",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "backstory": "The Yankees hit nine home runs vs. the Rays, matching their nine-homer explosion back in March against the Brewers, making them the first team in MLB history with two nine-homer games in one season.",
+        "funFact": "Only four teams in MLB history have ever hit nine or more homers in a game — the record is 10 by the 1987 Blue Jays.",
+        "order": 3
+      },
+      {
+        "id": "q4",
+        "question": "Paige Bueckers’ 44-point game this week against the Sparks tied for what spot on the WNBA’s all-time single-game scoring list?",
+        "tag": "",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2231220462_large_cropped.jpg?w=802",
+        "options": [
+          {
+            "letter": "A",
+            "text": "10th",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "12th",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "1st",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "9th",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "backstory": "Bueckers’ 44 points tied for the 10th-most in WNBA history, cementing her performance among the league’s most memorable scoring outbursts.",
+        "funFact": "The WNBA single-game record is 53 points, set by Liz Cambage in 2018.",
+        "order": 4
+      },
+      {
+        "id": "q5",
+        "question": "The Rockies tagged Shohei Ohtani this week for 5 runs on 9 hits in his first career start at Coors Field. In 10 pitching starts this season, what is the longest Shohei Ohtani has gone in terms of innings or pitch count?",
+        "tag": "MLB",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://dims.apnews.com/dims4/default/a94cf5b/2147483647/strip/true/crop/6000x4000+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2F71%2F7d187eec8d5958f4b6feeebacbf2%2Fbbab71c25f9c4b288993b473a37bd1a9",
+        "options": [
+          {
+            "letter": "A",
+            "text": "5 innings / 95 pitches",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "4 innings / 80 pitches",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "6 innings / 100 pitches",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Complete game / 120 pitches",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "backstory": "Even before the Rockies loss, Ohtani had been limited — he has not thrown more than 4⅓ innings or 80 pitches in any start this season.",
+        "funFact": "Ohtani missed the entire 2024 season recovering from elbow surgery, making 2025 his comeback year on the mound.",
+        "order": 5
+      },
+      {
+        "id": "q6",
         "question": "Which celebrity — one of Paige Bueckers’ “dream courtside guests” — attended her 44-point breakout game against the Sparks in Los Angeles?",
         "tag": "WNBA",
         "difficulty": "medium",
@@ -170,133 +275,28 @@
         "options": [
           {
             "letter": "A",
-            "text": "Ellen Pompeo",
+            "text": "Michael B. Jordan",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "Shemar Moore",
-            "isCorrect": true
-          },
-          {
-            "letter": "C",
             "text": "Zendaya",
             "isCorrect": false
           },
           {
-            "letter": "D",
-            "text": "Michael B. Jordan",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "B",
-        "backstory": "Roughly a month after Bueckers said her dream courtside celebrity guests are Grey's Anatomy's Ellen Pompeo and Criminal Minds' Shemar Moore, Moore decided to pull up for the Wings' game vs. the Sparks in L.A.—and he picked a great night to do it. \n\n\n\n",
-        "funFact": "After the game, Moore met Bueckers in the tunnel, capping off her “best night ever.”",
-        "order": 3
-      },
-      {
-        "id": "q4",
-        "question": "Starting in 2026, how many conference games will SEC teams play each season under the league’s new format?",
-        "tag": "SEC",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Southeastern_Conference_logo_%282024%29.svg/1920px-Southeastern_Conference_logo_%282024%29.svg.png",
-        "options": [
-          {
-            "letter": "A",
-            "text": "Eight ",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "Nine ",
-            "isCorrect": true
-          },
-          {
             "letter": "C",
-            "text": "Ten ",
+            "text": "Shemar Moore",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "Eleven",
+            "text": "Ellen Pompeo",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "B",
-        "backstory": "The SEC presidents and chancellors approved moving to a nine-game conference schedule, up from eight, beginning in 2026.\n",
-        "funFact": "Commissioner Greg Sankey said the move “underscores our universities’ commitment to delivering the most competitive football schedule in the nation.",
-        "order": 4
-      },
-      {
-        "id": "q5",
-        "question": "Why is there already talk of a potential quarterback controversy with the Giants heading into 2025?\t",
-        "tag": "NFL",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_171,w_4831,h_2717/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FImagnImages%2Fmmsport%2F146%2F01jyf2hkbmactqceyp2k.jpg",
-        "options": [
-          {
-            "letter": "A",
-            "text": "Russell Wilson is injured\t",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "Jaxson Dart played well in preseason while Wilson is the starter",
-            "isCorrect": true
-          },
-          {
-            "letter": "C",
-            "text": "The Giants have no clear starter named\t",
-            "isCorrect": false
-          },
-          {
-            "letter": "D",
-            "text": "Daniel Jones is still on the roster",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "B",
-        "backstory": "Rookie QB Jaxson Dart impressed in preseason, but Russell Wilson has been named the starter — a setup that could spark calls for a switch if Wilson struggles.\t",
-        "funFact": "The Giants open the season against the Commanders on September 7, with Wilson firmly in the starting role.",
-        "order": 5
-      },
-      {
-        "id": "q6",
-        "question": "Which sitcom character did the Yankees honor with a bobblehead giveaway at Yankee Stadium against the Red Sox?\t",
-        "tag": "MLB",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://store.bobbleheadhall.com/cdn/shop/files/Product_21_1024x1024.png?v=1743089374",
-        "options": [
-          {
-            "letter": "A",
-            "text": "Jerry Seinfeld\t",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "Cosmo Kramer\t",
-            "isCorrect": false
-          },
-          {
-            "letter": "C",
-            "text": "George Costanza\t",
-            "isCorrect": true
-          },
-          {
-            "letter": "D",
-            "text": "Newman",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "C",
-        "backstory": "The first 18,000 fans received a bobblehead of George Costanza, played by Jason Alexander, depicted napping under his desk from the Season 8 episode “The Nap.”\t",
-        "funFact": "In the episode, Costanza actually hires a handyman to expand the space under his desk for naps, complete with a cupholder and blanket drawer.\nWhat quote from “The Nap”",
+        "correctAnswer": "A",
+        "backstory": "Roughly a month after Bueckers said her dream courtside celebrity guests are Grey's Anatomy's Ellen Pompeo and Criminal Minds' Shemar Moore, Moore decided to pull up for the Wings' game vs. the Sparks in L.A.—and he picked a great night to do it.",
+        "funFact": "After the game, Moore met Bueckers in the tunnel, capping off her “best night ever.",
         "order": 6
       }
     ],
@@ -392,7 +392,7 @@
         "share"
       ],
       "customProperties": {
-        "quizTheme": "TGIF 👸🏀-⚾️-🏈-⚾️-⚽️-🏈",
+        "quizTheme": "Weekly RECAP",
         "specialEvent": false
       }
     },
