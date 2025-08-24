@@ -1,13 +1,13 @@
 {
   "dailyBlitz": {
-    "id": "2025-08-23",
-    "date": "2025-08-23T09:54",
+    "id": "2025-08-24",
+    "date": "2025-08-24T11:01",
     "version": "1.0",
     "status": "active",
-    "expiresAt": "2025-08-24T13:54:15.087Z",
+    "expiresAt": "2025-08-25T17:52:33.343Z",
     "metadata": {
       "title": "Blitz #8",
-      "theme": "Weekly RECAP",
+      "theme": "Sunday Fun!",
       "difficulty": "medium",
       "estimatedTime": 60,
       "totalPoints": 5000,
@@ -16,11 +16,11 @@
     },
     "stories": [
       {
-        "id": "7c38f64e-7452-4d3b-b449-ef7e70b90c46",
-        "headline": "Robot feats",
-        "bodyText": "The fastest 100-meter dash was 33.71 seconds — impressive for a hunk of wires, but still over 3x SLOWER than Usain Bolt’s human record.\n\nThe robots ran so awkwardly that some looked like your uncle jogging back to the car because he left the lights on",
-        "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/BaciakEF2rqewBh2SzUnv9ZuyW8=/1026x684/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/4b/9a4b7723-ec4d-4ad6-9722-14deda6f04fa/gettyimages-2230557252.jpg",
-        "category": "Olympiad",
+        "id": "e61ce212-8530-4001-9f11-6e542844009d",
+        "headline": "Vikings get former 1st rounder QB",
+        "bodyText": "Coaches liked Max Brosmer but still wanted a proven veteran behind McCarthy, especially after Howell struggled to adapt to the system.\n\nThe Vikings even reached out to Daniel Jones and Aaron Rodgers in the offseason before settling on Wentz. Wentz has now joined his sixth team in six seasons.",
+        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2573079.png&w=350&h=254",
+        "category": "NFL TRADE VIKINGS",
         "duration": 5000,
         "order": 1,
         "relatedQuestionIds": [
@@ -28,11 +28,11 @@
         ]
       },
       {
-        "id": "7868a4c0-3c9b-4ee3-9ed0-b6cafdd789c5",
-        "headline": "Statue for the Bird",
-        "bodyText": "Bird said her first career WNBA points and her final points 20 years later were both layups, making the pose deeply meaningful.\n\nThe statue also depicts her wearing Nike Air Zoom Huarache sneakers, the same model she wore during the Storm’s first championship and her first Olympic gold medal in 2004.",
-        "imageUrl": "https://www.oursportscentral.com/services/releases/headers/6270465.jpg",
-        "category": "WNBA",
+        "id": "de212e12-5d96-4e5f-9baf-63452f10e50e",
+        "headline": "Primetime exit",
+        "bodyText": "Sanders was ejected from a Colorado game vs. UCLA in 2023 for a targeting hit just before halftime.\nSanders is fighting for the fourth and final spot at the position of safety. \n",
+        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/college-football/players/full/4426508.png&w=350&h=254",
+        "category": "Ejected!",
         "duration": 5000,
         "order": 2,
         "relatedQuestionIds": [
@@ -40,11 +40,11 @@
         ]
       },
       {
-        "id": "efde448d-d6b5-4df7-86e1-d1a01d1c37f9",
-        "headline": "NINE times",
-        "bodyText": "The Yankees hit nine home runs vs. the Rays, matching their nine-homer explosion back in March against the Brewers, making them the first team in MLB history with two nine-homer games in one season.\n\nOnly four teams in MLB history have ever hit nine or more homers in a game — the record is 10 by the 1987 Blue Jays.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/800px-New_York_Yankees_Primary_Logo.svg.png",
-        "category": "MLB",
+        "id": "c2cc5df9-5292-469a-8ddf-db7cf7d92a63",
+        "headline": "LLWS FINALS",
+        "bodyText": "Taiwan is aiming for its 18th championship, but its first since 1996, after edging Aruba 1–0 in the semifinal.\nNevada is playing for its first LLWS championship in history.",
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/a7Ie4m4LpdxK7qdk6veTsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/86d821a0-806c-11f0-aeee-616efaeea49c",
+        "category": "Little League World Series",
         "duration": 5000,
         "order": 3,
         "relatedQuestionIds": [
@@ -52,11 +52,11 @@
         ]
       },
       {
-        "id": "6388a630-afc3-418c-b35f-d4142c40bb5e",
-        "headline": "Bookmark this Page",
-        "bodyText": "Bueckers’ 44 points tied for the 10th-most in WNBA history, cementing her performance among the league’s most memorable scoring outbursts.\n\nThe WNBA single-game record is 53 points, set by Liz Cambage in 2018.",
-        "imageUrl": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2231220462_large_cropped.jpg?w=802",
-        "category": "",
+        "id": "90ea5f89-f486-4926-a5ca-b51a542499cb",
+        "headline": "College Football Recap",
+        "bodyText": "Beating another Power 5 contender on international stage positions Kansas State as an early playoff dark horse and sets the narrative heading into Week 1.\n\nWith the expanded CFP format, early Power 5 wins can boost playoff seeding and strengthen a team’s SOS metrics all season long.",
+        "imageUrl": "https://atozsports.com/.image/w_1920,q_auto:good,c_fill,ar_4:3,g_xy_center,x_640,y_252/Mzk6MDAwMDAwMDAwMjI2NDcx/untitled-design-24-226471.jpg",
+        "category": "Farmageddon",
         "duration": 5000,
         "order": 4,
         "relatedQuestionIds": [
@@ -64,11 +64,11 @@
         ]
       },
       {
-        "id": "07461c86-e02d-468c-90d1-149e9cea9c3a",
-        "headline": "Rox rock Shohei",
-        "bodyText": "Even before the Rockies loss, Ohtani had been limited — he has not thrown more than 4⅓ innings or 80 pitches in any start this season.\n\nOhtani missed the entire 2024 season recovering from elbow surgery, making 2025 his comeback year on the mound.",
-        "imageUrl": "https://dims.apnews.com/dims4/default/a94cf5b/2147483647/strip/true/crop/6000x4000+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2F71%2F7d187eec8d5958f4b6feeebacbf2%2Fbbab71c25f9c4b288993b473a37bd1a9",
-        "category": "MLB",
+        "id": "03083d18-464a-4451-a4f6-038b475af8e5",
+        "headline": "Yankslide",
+        "bodyText": "New York has now lost eight in a row to Boston, dropping to 1–8 overall against the Red Sox this season.\n\"Sucks,\" Yankees manager Aaron Boone said. \"Feels really crappy. We got to get past it. We got to play better against these quality opponents in our division.\"",
+        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33192.png&w=350&h=254",
+        "category": "Yanks/Sox",
         "duration": 5000,
         "order": 5,
         "relatedQuestionIds": [
@@ -76,11 +76,11 @@
         ]
       },
       {
-        "id": "bd55dad0-8fac-4db0-9161-bf93babd8d16",
-        "headline": "Celeb sighting!",
-        "bodyText": "Roughly a month after Bueckers said her dream courtside celebrity guests are Grey's Anatomy's Ellen Pompeo and Criminal Minds' Shemar Moore, Moore decided to pull up for the Wings' game vs. the Sparks in L.A.—and he picked a great night to do it.\n\nAfter the game, Moore met Bueckers in the tunnel, capping off her “best night ever.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Orange_question_mark.svg",
-        "category": "WNBA",
+        "id": "9248d5b1-18f0-4f87-97f2-3082e4f9d6f0",
+        "headline": "Thee's company, what's four?",
+        "bodyText": "The Browns’ depth chart currently lists Shedeur Sanders as the fourth-string QB behind Joe Flacco, Kenny Pickett, and Dillon Gabriel.\n\nEven more Browns QBs lurk! Deshaun Watson remains on the PUP list rehabbing his Achilles, while Tyler Huntley is on the 90-man roster.",
+        "imageUrl": "https://static.wikia.nocookie.net/sportsmascots/images/2/25/Brownie.png/revision/latest?cb=20160219052842",
+        "category": "Browns QB drama",
         "duration": 5000,
         "order": 6,
         "relatedQuestionIds": [
@@ -91,212 +91,212 @@
     "questions": [
       {
         "id": "q1",
-        "question": "At China’s first “Robot Olympics,” what blazing 100-meter dash time did Unitree’s humanoid sprinter clock in at?",
-        "tag": "Olympiad",
+        "question": "What does the Vikings’ decision to add Carson Wentz after Sam Howell’s struggles suggest about their quarterback depth chart?",
+        "tag": "NFL TRADE VIKINGS",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/BaciakEF2rqewBh2SzUnv9ZuyW8=/1026x684/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/4b/9a4b7723-ec4d-4ad6-9722-14deda6f04fa/gettyimages-2230557252.jpg",
+        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2573079.png&w=350&h=254",
         "options": [
           {
             "letter": "A",
-            "text": "1 minute flat",
+            "text": "They’re preparing to start Wentz Week 1 ",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "33.71 seconds",
-            "isCorrect": true
-          },
-          {
-            "letter": "C",
-            "text": "15.5 seconds",
-            "isCorrect": false
-          },
-          {
-            "letter": "D",
-            "text": "9.58 seconds",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "B",
-        "backstory": "The fastest 100-meter dash was 33.71 seconds — impressive for a hunk of wires, but still over 3x SLOWER than Usain Bolt’s human record.",
-        "funFact": "The robots ran so awkwardly that some looked like your uncle jogging back to the car because he left the lights on",
-        "order": 1
-      },
-      {
-        "id": "q2",
-        "question": "Sue Bird is the first WNBA player honored with a statue outside her team’s arena. What symbolic detail did she choose for her statue’s pose?\n \n       ",
-        "tag": "WNBA",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://www.oursportscentral.com/services/releases/headers/6270465.jpg",
-        "options": [
-          {
-            "letter": "A",
-            "text": "A three-pointer",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "A layup",
-            "isCorrect": true
-          },
-          {
-            "letter": "C",
-            "text": "A no-look pass",
-            "isCorrect": false
-          },
-          {
-            "letter": "D",
-            "text": "A pull-up jumper",
-            "isCorrect": false
-          }
-        ],
-        "correctAnswer": "B",
-        "backstory": "Bird said her first career WNBA points and her final points 20 years later were both layups, making the pose deeply meaningful.",
-        "funFact": "The statue also depicts her wearing Nike Air Zoom Huarache sneakers, the same model she wore during the Storm’s first championship and her first Olympic gold medal in 2004.",
-        "order": 2
-      },
-      {
-        "id": "q3",
-        "question": "In their 13–3 win this week over the Rays, the Yankees became the first MLB team ever to do what in a single season?",
-        "tag": "MLB",
-        "difficulty": "medium",
-        "points": 500,
-        "timeLimit": null,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/800px-New_York_Yankees_Primary_Logo.svg.png",
-        "options": [
-          {
-            "letter": "A",
-            "text": "Score 20+ runs five times",
-            "isCorrect": false
-          },
-          {
-            "letter": "B",
-            "text": "Go back-to-back-to-back twice in one game",
+            "text": " They’re planning to trade McCarthy ",
             "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "Have multiple nine-homer games",
+            "text": "They wanted more experience behind McCarthy",
             "isCorrect": true
           },
           {
             "letter": "D",
-            "text": "Hit 100 home runs by August",
+            "text": "They lack confidence in undrafted rookie Max Brosmer as QB3",
             "isCorrect": false
           }
         ],
         "correctAnswer": "C",
-        "backstory": "The Yankees hit nine home runs vs. the Rays, matching their nine-homer explosion back in March against the Brewers, making them the first team in MLB history with two nine-homer games in one season.",
-        "funFact": "Only four teams in MLB history have ever hit nine or more homers in a game — the record is 10 by the 1987 Blue Jays.",
+        "backstory": "Coaches liked Max Brosmer but still wanted a proven veteran behind McCarthy, especially after Howell struggled to adapt to the system.",
+        "funFact": "The Vikings even reached out to Daniel Jones and Aaron Rodgers in the offseason before settling on Wentz. Wentz has now joined his sixth team in six seasons.",
+        "order": 1
+      },
+      {
+        "id": "q2",
+        "question": "Competing for a roster spot, Shilo Sanders was ejected after punching TE Zach Davidson. What similar discipline did Shilo Sanders face during his college career at CU in 2023?",
+        "tag": "Ejected!",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/college-football/players/full/4426508.png&w=350&h=254",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Unsportsmanlike conduct for taunting",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Multiple offsides penalties",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Ejection for targeting",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Suspension for missing team meetings",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "backstory": "Sanders was ejected from a Colorado game vs. UCLA in 2023 for a targeting hit just before halftime.",
+        "funFact": "Sanders is fighting for the fourth and final spot at the position of safety. \n",
+        "order": 2
+      },
+      {
+        "id": "q3",
+        "question": "The U.S. team, Nevada faces Taiwan in the 2025 Little League World Series. How many all-time titles is Taiwan chasing?",
+        "tag": "Little League World Series",
+        "difficulty": "medium",
+        "points": 500,
+        "timeLimit": null,
+        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/a7Ie4m4LpdxK7qdk6veTsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/86d821a0-806c-11f0-aeee-616efaeea49c",
+        "options": [
+          {
+            "letter": "A",
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "18",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "backstory": "Taiwan is aiming for its 18th championship, but its first since 1996, after edging Aruba 1–0 in the semifinal.",
+        "funFact": "Nevada is playing for its first LLWS championship in history.",
         "order": 3
       },
       {
         "id": "q4",
-        "question": "Paige Bueckers’ 44-point game this week against the Sparks tied for what spot on the WNBA’s all-time single-game scoring list?",
-        "tag": "",
+        "question": "Kansas State won the “Farmageddon” opener in Dublin over Iowa State — why could that result loom large for the Big 12 and playoff race? ",
+        "tag": "Farmageddon",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2231220462_large_cropped.jpg?w=802",
+        "imageUrl": "https://atozsports.com/.image/w_1920,q_auto:good,c_fill,ar_4:3,g_xy_center,x_640,y_252/Mzk6MDAwMDAwMDAwMjI2NDcx/untitled-design-24-226471.jpg",
         "options": [
           {
             "letter": "A",
-            "text": "10th",
-            "isCorrect": true
+            "text": "It determined the Heisman winner",
+            "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "12th",
+            "text": "It secured bowl eligibility",
             "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "1st",
+            "text": "It was the first Big 12 title game rematch",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "9th",
-            "isCorrect": false
+            "text": "It gave them a marquee non-conference résumé win",
+            "isCorrect": true
           }
         ],
-        "correctAnswer": "A",
-        "backstory": "Bueckers’ 44 points tied for the 10th-most in WNBA history, cementing her performance among the league’s most memorable scoring outbursts.",
-        "funFact": "The WNBA single-game record is 53 points, set by Liz Cambage in 2018.",
+        "correctAnswer": "D",
+        "backstory": "Beating another Power 5 contender on international stage positions Kansas State as an early playoff dark horse and sets the narrative heading into Week 1.",
+        "funFact": "With the expanded CFP format, early Power 5 wins can boost playoff seeding and strengthen a team’s SOS metrics all season long.",
         "order": 4
       },
       {
         "id": "q5",
-        "question": "The Rockies tagged Shohei Ohtani this week for 5 runs on 9 hits in his first career start at Coors Field. In 10 pitching starts this season, what is the longest Shohei Ohtani has gone in terms of innings or pitch count?",
-        "tag": "MLB",
+        "question": "With their 12–1 loss on Saturday, how many straight games have the Yankees dropped to the rival Red Sox this season?",
+        "tag": "Yanks/Sox",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://dims.apnews.com/dims4/default/a94cf5b/2147483647/strip/true/crop/6000x4000+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2F71%2F7d187eec8d5958f4b6feeebacbf2%2Fbbab71c25f9c4b288993b473a37bd1a9",
+        "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33192.png&w=350&h=254",
         "options": [
           {
             "letter": "A",
-            "text": "5 innings / 95 pitches",
+            "text": "5",
             "isCorrect": false
           },
           {
             "letter": "B",
-            "text": "4 innings / 80 pitches",
-            "isCorrect": true
+            "text": "6",
+            "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "6 innings / 100 pitches",
-            "isCorrect": false
+            "text": "8",
+            "isCorrect": true
           },
           {
             "letter": "D",
-            "text": "Complete game / 120 pitches",
+            "text": "10",
             "isCorrect": false
           }
         ],
-        "correctAnswer": "B",
-        "backstory": "Even before the Rockies loss, Ohtani had been limited — he has not thrown more than 4⅓ innings or 80 pitches in any start this season.",
-        "funFact": "Ohtani missed the entire 2024 season recovering from elbow surgery, making 2025 his comeback year on the mound.",
+        "correctAnswer": "C",
+        "backstory": "New York has now lost eight in a row to Boston, dropping to 1–8 overall against the Red Sox this season.",
+        "funFact": "\"Sucks,\" Yankees manager Aaron Boone said. \"Feels really crappy. We got to get past it. We got to play better against these quality opponents in our division.\"",
         "order": 5
       },
       {
         "id": "q6",
-        "question": "Which celebrity — one of Paige Bueckers’ “dream courtside guests” — attended her 44-point breakout game against the Sparks in Los Angeles?",
-        "tag": "WNBA",
+        "question": "Which rookie quarterback the OTHER son of Deion — is fighting for a spot as the Browns’ fourth QB?",
+        "tag": "Browns QB drama",
         "difficulty": "medium",
         "points": 500,
         "timeLimit": null,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Orange_question_mark.svg",
+        "imageUrl": "https://static.wikia.nocookie.net/sportsmascots/images/2/25/Brownie.png/revision/latest?cb=20160219052842",
         "options": [
           {
             "letter": "A",
-            "text": "Michael B. Jordan",
-            "isCorrect": false
+            "text": "Shedeur Sanders",
+            "isCorrect": true
           },
           {
             "letter": "B",
-            "text": "Zendaya",
+            "text": "Deionisio Sanders",
             "isCorrect": false
           },
           {
             "letter": "C",
-            "text": "Shemar Moore",
+            "text": "Dior Sanders",
             "isCorrect": false
           },
           {
             "letter": "D",
-            "text": "Ellen Pompeo",
+            "text": "Primetime Jr. Sanders (goes by “PTJ”)",
             "isCorrect": false
           }
         ],
         "correctAnswer": "A",
-        "backstory": "Roughly a month after Bueckers said her dream courtside celebrity guests are Grey's Anatomy's Ellen Pompeo and Criminal Minds' Shemar Moore, Moore decided to pull up for the Wings' game vs. the Sparks in L.A.—and he picked a great night to do it.",
-        "funFact": "After the game, Moore met Bueckers in the tunnel, capping off her “best night ever.",
+        "backstory": "The Browns’ depth chart currently lists Shedeur Sanders as the fourth-string QB behind Joe Flacco, Kenny Pickett, and Dillon Gabriel.",
+        "funFact": "Even more Browns QBs lurk! Deshaun Watson remains on the PUP list rehabbing his Achilles, while Tyler Huntley is on the 90-man roster.",
         "order": 6
       }
     ],
@@ -392,7 +392,7 @@
         "share"
       ],
       "customProperties": {
-        "quizTheme": "Weekly RECAP",
+        "quizTheme": "Sunday Fun!",
         "specialEvent": false
       }
     },
